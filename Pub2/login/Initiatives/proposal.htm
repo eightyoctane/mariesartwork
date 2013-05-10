@@ -1,0 +1,54 @@
+<table border="1" style="border-collapse: collapse" width="82%" id="table6">
+	<tr>
+		<td>Proposal Entry Screen <font size="1">(<span style="background-color: #FFFF00">*</span></font><span style="background-color: #FFFFFF"><font size="1"> 
+		= required field)</font></span></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse" width="83%">
+	<tr>
+		<td>
+		<form enctype="multipart/form-data" method="POST">
+			<table border="0" style="border-collapse: collapse" width="100%" id="table1">
+				<tr>
+					<td width="649">Proposal Name: <?=$this->displayTextBox('pname')?></td>
+					<td><?=$this->displaySimpleErrorText("pname")?></td>
+				</tr>
+				</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table2">
+				<tr>
+					<td width="333">Proposal Descriptive Name: <?=$this->displayTextBox('descname')?></td>
+					<td><?=$this->displaySimpleErrorText("descname")?></td>
+				</tr>
+				<tr>
+					<td colspan="2"> <?=$this->displayText('ptype')?> for&nbsp; <?=$this->displayText('iname')?></td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table3">
+				<tr>
+					<td width="651">Submitter Name: <?=$this->displayText('submittedbynm')?></td>
+					<td></td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table4">
+				<tr>
+					<td width="651">Short Description of Proposal: <?=$this->displayTextArea('shortdesc')?></td>
+					<td><?=$this->displaySimpleErrorText("shortdesc")?></td>
+				</tr>
+				<tr>
+					<td width="651">Duration (time window for the proposal - 
+					days):&nbsp;<?=$this->displayTextBox('duration')?> </td>
+					<td><?=$this->displaySimpleErrorText("duration")?></td>
+				</tr>
+			</table>
+			<table border="1" style="border-collapse: collapse" width="100%" id="table5">
+				<tr>
+					<td width="649">Please upload your proposal (pdf&nbsp; file 
+					only): <input name="uploaded" type="file" /><br />
+ <?=$this->displaySubmit('submitbutton')?> </td>
+					<td><?=$this->displaySimpleErrorText("uploaded")?></td>
+					</tr>
+				</table>
+			</form>
+		</td>
+	</tr>
+</table>

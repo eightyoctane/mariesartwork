@@ -1,0 +1,15 @@
+<body>
+<table border="1" style="border-collapse: collapse" width="100%" id="table1">
+	<tr>
+		<td width="580">
+		<form method="POST"><?=$this->displayHiddenValues()?>
+			<p><input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2">
+
+Select an initiative: <?=$this->displayListTextBox('initiatives')?></p>
+		<?=$this->displayHiddenValues()?></form>
+		</td>
+		<td>
+		<?=$this->displaySimpleErrorText("initiatives")?></td>
+	</tr>
+</table>
+</body>

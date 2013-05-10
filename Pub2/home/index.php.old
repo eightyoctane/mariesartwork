@@ -1,0 +1,67 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Home of Blue Mountain Airpark</title>
+<meta name="keywords" content="Gibson Airfield, GE05, ge05, grass airstrip, Beech, Beechcraft Bonanza, Helicopter, RV-6, fly-in, fly-in breakfast">
+</head>
+
+<body style="font-family: Arial">
+
+<table border="0" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td>
+
+<table border="0" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td>
+		<table border="0" width="99%" style="border-collapse: collapse">
+			<tr>
+				<td width="34%" align="center">
+				<img border="0" src="http://www.bluemountainairpark.com/images/symbol50pct.jpg" width="141" height="149"></td>
+				<td width="24%" align="left">
+				<img border="0" src="http://www.bluemountainairpark.com/images/aerial.jpg" width="200" height="150"></td>
+				<td width="41%">
+				<dl>
+					<dt>
+				<i><font size="5" face="ST MicroSquare Ex">Welcome to GE05!</font></i></dt>
+				</dl>
+				</td>
+			</tr>
+			<tr>
+				<td width="34%" align="center">
+		<font face="Arial Black" size="2">Blue Mountain is a private airport 
+		located in Northern Georgia, constructed as a private, gated community, 
+		primarily for the use of associated homeowners and their guests. Air 
+		navigation details regarding Blue Mountain can be found at
+		<a href="http://www.airnav.com/airport/GE05">airnav.com</a>. We love to 
+		have visitors, but we ask that you make preparations before landing, in 
+		other words,&nbsp; 1) contact us via telephone (605-423-4483), and 2) 
+		obtain and return our 
+		<a href="Landing%20Agreement%20%20for%20Gibson%20Field.pdf">Standard 
+		Landing Waiver</a>. </font>
+		<p><font face="Arial Black" size="2">This is a new website and an active 
+		airpark. Please stay tuned for upcoming events, and interesting resident 
+		activities here at Blue Mountain.</font><p>&nbsp;</td>
+				<td width="73%" align="left" colspan="2">
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="690" height="505">
+	<param name="allowFullScreen" value="true" />
+	<param name="movie" value="http://www.bluemountainairpark.com/dfg/DfGallery.swf" />
+	<param name="quality" value="high" />
+	<param name="FlashVars" value="xmlUrl=http://www.bluemountainairpark.com/dfg/api/rest/get_gallery/1/json" />
+	<embed src="http://www.bluemountainairpark.com/dfg/DfGallery.swf" quality="high"width="690" height="505" FlashVars="xmlUrl=http://www.bluemountainairpark.com/dfg/api/rest/get_gallery/1/json" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object></td>
+			</tr>
+		</table>
+		<p>&nbsp;</td>
+	</tr>
+</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

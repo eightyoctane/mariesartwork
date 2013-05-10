@@ -1,0 +1,142 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title><?=$this->website?> <?=$this->formname?></title>
+</head>
+
+<body style="font-family: Arial">
+
+
+
+<p>&nbsp;</p>
+<form action ="<?=$this->faction?>" form method="POST"><?=$this->hiddenval?>
+	<table border="0" width="100%" id="table2">
+		<tr>
+			<td align="center"><b><i><?=$this->website?></i></b><i><b> <?=$this->formname?></b></i></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="center"><input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2"><table border="0" width="58%" id="table3" style="font-size: 8pt">
+		<tr>
+			<td width="93"><font color="#FF0000">*</font>Name:</td>
+			<td><input type="text" name="name" value="<?=$n?>" size="40" style="font-size: 8pt"></td>
+			<td>
+			<font color="#FFFFFF"><span style="background-color: #FF0000">
+			<?=$nmsg?></span></font></td>
+		</tr>
+		<tr>
+			<td width="93">Address - Apt#:</td>
+			<td><input type="text" name="apt" value="<?=$aapt?>" size="50"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">Address - Street:</td>
+			<td><input type="text" name="street" value="<?=$ast?>" size="50"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">City:</td>
+			<td><input type="text" name="city" value="<?=$acity?>" size="50"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">State:</td>
+			<td><input type="text" name="state" value="<?=$astate?>" size="50"></td>
+			<td>&nbsp;</td>
+		</tr>
+
+		<tr>
+			<td width="93">ZIP:</td>
+			<td><input type="text" name="zip" value="<?=$azip?>" size="20"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">Country:</td>
+			<td><input type="text" name="country" value="<?=$acou?>" size="50"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">Phone:</td>
+			<td><input type="text" name="phone" value="<?=$ph?>" size="20"></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93"><font color="#FF0000">*</font>Email Address:</td>
+			<td>
+			<input type="text" name="email" value="<?=$e?>"size="50" style="font-size: 8pt"></td>
+			<td>
+			<font color="#FFFFFF"><span style="background-color: #FF0000">
+			<?=$emsg?></span></font></td>
+		</tr>
+		<tr>
+			<td width="93"><font color="#FF0000">*</font>Username:</td>
+			<td>
+			<input type="text" name="uname" value="<?=$u?>" size="20" style="font-size: 8pt"></td>
+			<td>
+			<font color="#FFFFFF"><span style="background-color: #FF0000">
+			<?=$umsg?></span></font></td>
+		</tr>
+		<tr>
+			<td width="93"><font color="#FF0000">*</font>Password:</td>
+			<td>
+			<input type="password" name="pwd" value="<?=$pwd?>" size="20" style="font-size: 8pt"></td>
+			<td>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93"><font color="#FF0000">*</font>Verify Password:</td>
+			<td>
+			<input type="password" name="pwdv" value="<?$pwd?>" size="20" style="font-size: 8pt"></td>
+			<td>
+			<font color="#FFFFFF"><span style="background-color: #FF0000">
+			<?=$pwdmsg?></span></font></td>
+		</tr>
+		<tr>
+			<td width="93">User Type:</td>
+			<td>
+			<?=$utypehtml?></td>
+			<td>
+			<?=$utypemsg?></td>
+		</tr>
+		<tr>
+			<td width="93">User Privilege:</td>
+			<td>
+			<?=$uprivhtml?></td>
+			<td>
+			<?=$uprivmsg?></td>
+		</tr>
+		<tr>
+			<td width="93">Receive Email Notifications:</td>
+			<td>
+			<?=$this->displayCheckbox("notifyme")?></td>
+			<td>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">Account Status Active:</td>
+			<td>
+			<?=$this->displayCheckbox("acctstatus")?></td>
+			<td>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="93">Voter ID:</td>
+			<td>
+			<?=$this->displayVoterID()?></td>
+			<td>
+			&nbsp;</td>
+		</tr>
+		</table>
+			</td>
+		</tr>
+	</table>
+</form>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

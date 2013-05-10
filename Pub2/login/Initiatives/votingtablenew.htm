@@ -1,0 +1,14 @@
+<form method="POST">
+	<table border="1" style="border-collapse: collapse" width="39%" id="table1">
+		<tr>
+			<td width="106">Yes <?=$this->displayCheckBox("yesvote")?> 
+	No <?=$this->displayCheckBox("novote")?> 
+	</td>
+			<td><?=$this->displaySimpleErrorText("voteerror")?></td>
+			<td width="286">Comment: <?=$this->displayTextBox("votecomment")?>
+	<?=$this->displaySubmit($value)?><input type="reset" value="Reset" name="B2">
+	<?=$this->idisplayHiddenValue("iid")?>	
+	</td>
+		</tr>
+	</table>
+</form>

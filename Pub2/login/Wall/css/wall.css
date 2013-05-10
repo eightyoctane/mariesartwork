@@ -1,0 +1,179 @@
+/* 
+Srinivas Tamada
+www.9lessons.info 
+Facebook Wall Script
+*/
+
+*
+{
+margin:0px;
+padding:0px;
+}
+body
+{
+font-family:Arial, Helvetica, sans-serif;
+font-family:12px;
+}
+h3,h4
+{
+padding:0px;
+margin:0px;
+}
+a
+{
+color:#006699;
+text-decoration:none;
+}
+#wall_container
+{
+text-align:left;
+background-color:#FFFFFF;
+padding:10px;
+width:550px;
+}
+#update
+{
+width:550px;font-size:12px;
+}
+#content
+{
+margin-top:10px;
+}
+textarea
+{
+border:solid 1px #333;
+}
+
+/* status body */
+
+.stbody
+{
+
+margin-bottom:10px;
+border-bottom:dashed 1px #dedede;
+overflow:auto;
+}
+.stimg
+{
+float:left;
+height:50px;
+width:50px;
+border:solid 1px #dedede;
+padding:3px;
+}
+.sttext
+{
+margin-left:70px;
+min-height:50px;
+word-wrap:break-word;
+overflow:hidden;
+padding:5px;
+display:block;
+font-size:12px;
+width:470px;
+}
+.sttext b
+{
+color:#006699;
+}
+
+.sttime
+{
+font-size:11px;
+color:#999;
+font-family:Arial, Helvetica, sans-serif;
+margin-top:5px;
+}
+.stdelete 
+{
+font-weight:bold;
+float:right;
+cursor:pointer;
+}
+#stexpandbox
+{
+margin-top:10px;
+}
+#stexpandbox img
+{
+border:solid 1px #dedede;
+padding:3px;
+}
+/* Comment */
+.stcommentbody
+{
+
+
+border-bottom:solid 1px #fff;
+background-color:#f2f2f2;
+padding:5px;
+width:400px;
+overflow:auto;
+}
+.stcommentimg
+{
+float:left;
+height:35px;
+width:35px;
+border:solid 1px #dedede;
+padding:2px;
+}
+.stcommenttext
+{
+margin-left:45px;
+min-height:40px;
+word-wrap:break-word;
+overflow:hidden;
+padding:3px;
+display:block;
+font-size:11px;
+width:350px;
+
+}
+.stcommenttext b
+{
+color:#006699;
+}
+
+.stcommenttime
+{
+font-size:11px;
+color:#999;
+font-family:Arial, Helvetica, sans-serif;
+margin-top:5px;
+}
+.stcommentdelete 
+{
+font-weight:bold;
+float:right;
+cursor:pointer;
+}
+.commentupdate
+{
+background-color:#f2f2f2;
+width:400px;
+padding:5px;
+}
+.comment
+{
+width:330px;
+height:35px;
+font-size:11px;
+}
+/* faceb image*/
+.small_face
+{
+width:35px;height:35px
+}
+.big_face
+{
+width:50px;height:50px
+}
+#flashmessage
+{
+height:15px;
+margin-top:10px;
+font-size:11px;
+color:#333;
+
+}

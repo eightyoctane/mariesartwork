@@ -1,0 +1,365 @@
+[16-Nov-2011 10:27:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('', 'test desc', 'test abs', 'Gary Gross', '117', 'open', 'test', '1321460873', 'Bertrand')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(81): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 10:32:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('', 'test desc', 'test abs', 'Gary Gross', '117', 'open', 'test', '1321461179', 'Bertrand')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(81): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 17:29:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('', 'stest1', 'atest1', 'Gary Gross', '117', 'open', 'test1', '1321486173', 'test1')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(81): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 17:32:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('', 'stest1', 'atest1', 'Gary Gross', '117', 'open', 'test1', '1321486345', 'test1')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(83): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 17:38:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('', 'stest1', 'atest1', 'Gary Gross', '117', 'open', 'test1', '1321486738', 'test1')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(83): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 17:56:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, duration, descname, datetimeopened, filesdir) values('test1', 'stest1', 'atest1', 'Gary Gross', '117', 'open', 'test1', '1321487817', 'test1')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(64): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/pjForm.php(83): Project->openProject(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[16-Nov-2011 17:59:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 96
+[16-Nov-2011 20:23:46] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 77
+[16-Nov-2011 20:23:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 96
+[16-Nov-2011 20:35:55] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 77
+[16-Nov-2011 20:35:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 96
+[16-Nov-2011 20:52:47] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 77
+[16-Nov-2011 20:52:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 78
+[16-Nov-2011 20:56:54] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 77
+[16-Nov-2011 20:56:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 96
+[16-Nov-2011 20:59:23] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[16-Nov-2011 20:59:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 96
+[22-Nov-2011 04:29:43] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 139
+[22-Nov-2011 04:31:08] PHP Parse error:  syntax error, unexpected '%' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 148
+[24-Nov-2011 16:07:59] PHP Parse error:  syntax error, unexpected '$', expecting '&' or T_VARIABLE in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 75
+[24-Nov-2011 16:09:42] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 100
+[24-Nov-2011 16:26:00] PHP Fatal error:  Out of memory (allocated 69206016) (tried to allocate 40 bytes) in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 162
+[24-Nov-2011 20:57:02] PHP Parse error:  syntax error, unexpected '/' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 151
+[24-Nov-2011 20:57:22] PHP Parse error:  syntax error, unexpected '/' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 153
+[24-Nov-2011 22:52:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ']' in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 111
+[24-Nov-2011 22:53:33] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 67
+[24-Nov-2011 22:54:28] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 66
+[24-Nov-2011 22:55:08] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 67
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 3 for Form::getTextBox(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1439 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 220
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 3 for Form::getTextBox(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1446 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 220
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 3 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1452 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 275
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 4 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1452 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 275
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 3 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1458 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 275
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 4 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1458 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 275
+[24-Nov-2011 22:58:43] PHP Warning:  Missing argument 3 for Form::getTextBox(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1464 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 220
+[25-Nov-2011 06:23:19] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 06:23:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/pjForm.php:95) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 123
+[25-Nov-2011 06:41:03] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 06:41:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 82
+[25-Nov-2011 07:15:49] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 07:15:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:76) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 07:42:30] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 07:42:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1471) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 07:44:35] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 07:44:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1471) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 07:46:27] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 07:46:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1477) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 16:25:26] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: Permission denied (errno 13) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 16:25:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 82
+[25-Nov-2011 16:45:10] PHP Warning:  chdir() [<a href='function.chdir'>function.chdir</a>]: No such file or directory (errno 2) in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 80
+[25-Nov-2011 16:45:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:76) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 16:51:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:76) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 17:18:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 98
+[25-Nov-2011 17:19:17] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 89
+[25-Nov-2011 17:19:54] PHP Fatal error:  Call to a member function getResult() on a non-object in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 91
+[25-Nov-2011 17:20:30] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 97
+[25-Nov-2011 17:21:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:76) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[25-Nov-2011 21:43:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:76) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[26-Nov-2011 12:14:09] PHP Fatal error:  Call to undefined method iForm::setProjectNameSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 35
+[26-Nov-2011 12:18:57] PHP Warning:  Missing argument 1 for Project::nextProject(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1549 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 118
+[26-Nov-2011 12:18:57] PHP Warning:  Missing argument 1 for Project::nextProject(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1549 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 118
+[26-Nov-2011 12:22:50] PHP Fatal error:  Call to undefined method pjForm::getProjectIDFromSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 43
+[26-Nov-2011 12:45:04] PHP Fatal error:  Call to undefined method pjForm::getProjectIDFromSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 43
+[26-Nov-2011 12:49:40] PHP Fatal error:  Call to undefined method pjForm::getProjectIDFromSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 45
+[26-Nov-2011 12:57:18] PHP Fatal error:  Call to undefined method pjForm::getInitiativeIDFromSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 47
+[26-Nov-2011 13:02:59] PHP Fatal error:  Call to undefined method pjForm::getInitiativeIDFromSelectionBox() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 47
+[26-Nov-2011 15:23:17] PHP Fatal error:  Call to undefined method pjForm::displayListTextAreaBox() in /home/bmasite/public_html/Pub2/login/Projects/selectproject.htm on line 17
+[26-Nov-2011 17:27:49] PHP Fatal error:  Call to undefined method pjForm::displayHyperlinkPerLine() in /home/bmasite/public_html/Pub2/login/Projects/selectproject.htm on line 25
+[27-Nov-2011 05:43:14] PHP Fatal error:  Call to undefined method pjForm::addHeadTextContent() in /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php on line 30
+[27-Nov-2011 06:36:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 89
+[27-Nov-2011 06:38:54] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 100
+[27-Nov-2011 06:39:29] PHP Fatal error:  Cannot use assign-op operators with overloaded objects nor string offsets in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 89
+[28-Nov-2011 05:25:51] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 108
+[28-Nov-2011 05:37:31] PHP Warning:  Unterminated comment starting line 89 in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 89
+[28-Nov-2011 05:37:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 89
+[28-Nov-2011 17:53:12] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[28-Nov-2011 18:02:07] PHP Warning:  include(/home/bmasite/public_html/Pub2/login/project.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1590
+[28-Nov-2011 18:02:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/bmasite/public_html/Pub2/login/project.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1590
+[28-Nov-2011 18:02:07] PHP Fatal error:  Call to a member function setSimpleErrorText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1598
+[28-Nov-2011 18:02:54] PHP Fatal error:  Cannot redeclare class Project in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 2
+[28-Nov-2011 18:05:31] PHP Fatal error:  Call to a member function setSimpleErrorText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1598
+[28-Nov-2011 18:06:06] PHP Fatal error:  Call to undefined method pjForm::getTextEditorAread() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1599
+[28-Nov-2011 18:07:04] PHP Fatal error:  Call to undefined method pjForm::getTextEditorAread() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1599
+[28-Nov-2011 18:07:13] PHP Warning:  Missing argument 2 for Project::isAuthorized(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1606 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 145
+[28-Nov-2011 18:07:13] PHP Warning:  Missing argument 3 for Project::isAuthorized(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1606 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 145
+[28-Nov-2011 18:07:13] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[29-Nov-2011 05:32:41] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1611
+[29-Nov-2011 05:38:08] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1611
+[29-Nov-2011 05:38:15] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1611
+[29-Nov-2011 11:50:54] PHP Warning:  Missing argument 6 for Form::setTextEditorArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1582 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 86
+[29-Nov-2011 14:03:54] PHP Warning:  Missing argument 2 for Project::isAuthorized(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1611 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 145
+[29-Nov-2011 14:03:54] PHP Warning:  Missing argument 3 for Project::isAuthorized(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1611 and defined in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 145
+[29-Nov-2011 14:03:54] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[30-Nov-2011 13:25:06] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[30-Nov-2011 13:31:44] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[30-Nov-2011 13:33:28] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 44
+[30-Nov-2011 13:33:49] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 44
+[30-Nov-2011 14:40:07] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 127
+[30-Nov-2011 14:40:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 127
+[30-Nov-2011 14:40:44] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 127
+[30-Nov-2011 14:43:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projectcomments20 (pjid, comment, submittedtime, submittedbynm, submittedbyid) values('20', '<p>
+	whoa</p>
+', time(), '', '')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(127): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(1622): Project->addComment('20', Array)
+#2 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Nov-2011 14:44:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projectcomments20 (pjid, comment, submittedtime, submittedbynm, submittedbyid) values('20', '<p>
+	whoa</p>
+', time(), 'eightyoctane', '117')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(127): mysql->query('insert into pro...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(1622): Project->addComment('20', Array)
+#2 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Nov-2011 21:36:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:03:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:04:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:05:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:05:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:12:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:13:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:13:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(125): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:15:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(127): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:18:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(127): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:18:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(117): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(127): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:20:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT ctablename FROM projects WHERE pjid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(118): mysql->query('SELECT ctablena...')
+#1 /home/bmasite/public_html/Pub2/login/Projects/project.php(128): Project->getCTableName(NULL)
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1623): Project->addComment('20', Array)
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 08:20:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT * FROM projectcomments20 ORDER BY datetimeopened
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Projects/project.php(142): mysql->query('SELECT * FROM p...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(1636): Project->nextComment('20')
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(1626): pjForm->setCommentList('20', Object(Project))
+#3 /home/bmasite/public_html/Pub2/login/Projects/commentfromproject.php(49): pjForm->cinputComplete(Object(SessionPageBrowser), Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[01-Dec-2011 23:36:14] PHP Fatal error:  Call to a member function setSimpleErrorText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1667
+[01-Dec-2011 23:39:26] PHP Fatal error:  Call to undefined method pjForm::logMessage() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1668
+[02-Dec-2011 12:38:08] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1717
+[03-Dec-2011 12:43:38] PHP Warning:  move_uploaded_file(/home/bmasite/public_html/Pub2/login/ProjectFiles/test1/AccessDenied.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Permission denied in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1667
+[03-Dec-2011 12:43:38] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpNprh8b' to '/home/bmasite/public_html/Pub2/login/ProjectFiles/test1/AccessDenied.png' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1667
+[03-Dec-2011 12:53:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[03-Dec-2011 14:31:51] PHP Fatal error:  Out of memory (allocated 68943872) (tried to allocate 67895376 bytes) in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 156
+[03-Dec-2011 16:05:15] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1752
+[04-Dec-2011 05:32:50] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1753
+[04-Dec-2011 05:35:17] PHP Fatal error:  Call to undefined function  rcq() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1754
+[04-Dec-2011 05:35:53] PHP Fatal error:  Call to undefined function  returnhyperlink() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1754
+[04-Dec-2011 05:36:25] PHP Fatal error:  Call to undefined function  rendertabletext() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1763
+[04-Dec-2011 06:31:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1632
+[04-Dec-2011 07:58:06] PHP Fatal error:  Cannot redeclare class Table in /home/bmasite/public_html/Pub2/login/TableClass.php on line 2
+[04-Dec-2011 07:58:57] PHP Fatal error:  Cannot redeclare class Table in /home/bmasite/public_html/Pub2/login/TableClass.php on line 2
+[04-Dec-2011 07:59:25] PHP Fatal error:  Cannot redeclare class Table in /home/bmasite/public_html/Pub2/login/TableClass.php on line 2
+[04-Dec-2011 07:59:59] PHP Fatal error:  Class 'Table' not found in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1718
+[04-Dec-2011 08:03:41] PHP Fatal error:  Cannot redeclare class Table in /home/bmasite/public_html/Pub2/login/TableClass.php on line 2
+[04-Dec-2011 09:45:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[04-Dec-2011 11:39:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:77) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[04-Dec-2011 11:41:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Projects/project.php:107) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[04-Dec-2011 12:06:37] PHP Parse error:  syntax error, unexpected ']' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 103
+[04-Dec-2011 12:18:38] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1725
+[04-Dec-2011 12:18:38] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1725
+[04-Dec-2011 13:37:21] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1725
+[04-Dec-2011 13:38:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1725
+[04-Dec-2011 19:21:27] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1727
+[04-Dec-2011 19:24:11] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1745
+[04-Dec-2011 19:26:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1748
+[04-Dec-2011 19:31:49] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1727
+[04-Dec-2011 19:32:49] PHP Fatal error:  Call to a member function nextComment() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1655
+[04-Dec-2011 19:36:02] PHP Fatal error:  Call to undefined method Project::removeComment() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1660
+[04-Dec-2011 19:37:55] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 19:40:10] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 19:42:06] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 19:44:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 19:46:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 19:57:26] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 20:03:58] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 20:13:14] PHP Catchable fatal error:  Object of class Project could not be converted to string in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 120
+[04-Dec-2011 20:14:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 20:15:15] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[04-Dec-2011 20:43:43] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 122
+[04-Dec-2011 23:19:40] PHP Warning:  move_uploaded_file(/home/bmasite/public_html/Pub2/login/ProjectFiles/test2/artmarieDates.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: Permission denied in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1701
+[04-Dec-2011 23:19:40] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpeMXy0F' to '/home/bmasite/public_html/Pub2/login/ProjectFiles/test2/artmarieDates.png' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1701
+[05-Dec-2011 08:41:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, descname, datetimeopened, filesdir, auth) values('Marie's VP Campaign', 'campaign documents', 'campaign docs and activities', 'Gary Gross', '117', 'open', 'marieforvp2012', '1323096114', 'marieforvp2012', 'a:16:{i:0;a:3:{s:2:"id";s:3:"147";s:4:"name";s:13:"John Bertrand";s:5:"sense";b:0;}i:1;a:3:{s:2:"id";s:3:"153";s:4:"name";s:12:"Gary Venning";s:5:"sense";b:0;}i:2;a:3:{s:2:"id";s:3:"174";s:4:"name";s:12:"Quinn Ahrens";s:5:"sense";b:0;}i:3;a:3:{s:2:"id";s:3:"175";s:4:"name";s:12:"Diana Ahrens";s:5:"sense";b:0;}i:4;a:3:{s:2:"id";s:3:"171";s:4:"name";s:16:"James Rutherford";s:5:"sense";b:0;}i:5;a:3:{s:2:"id";s:3:"173";s:4:"name";s:13:"Scott Langton";s:5:"sense";b:0;}i:6;a:3:{s:2:"id";s:3:"177";s:4:"name";s:10:"Don Folley";s:5:"sense";b:0;}i:7;a:3:{s:2:"id";s:3:"179";s:4:"name";s:14:"Nancy Bertrand";s:5:"sense";b:0;}i:8;a:3:{s:2:"id";s:3:"184";s:4:"name";s in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[05-Dec-2011 09:07:41] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 226
+[05-Dec-2011 09:08:13] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 225
+[05-Dec-2011 12:29:42] PHP Fatal error:  Call to undefined method pjForm::displayCommentList() in /home/bmasite/public_html/Pub2/login/Projects/selectproject.htm on line 31
+[05-Dec-2011 13:28:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1549) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[05-Dec-2011 13:42:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1549) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[05-Dec-2011 13:57:00] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1557
+[05-Dec-2011 17:51:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1549) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[06-Dec-2011 05:24:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1549) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[06-Dec-2011 05:33:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:1549) in /home/bmasite/public_html/Pub2/login/Projects/pjForm.php on line 92
+[06-Dec-2011 05:48:58] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Projects/project.php on line 248
+[06-Dec-2011 06:26:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, descname, datetimeopened, filesdir, auth) values('BMA Vision Statement', 'Various trys at the vision statement', 'Let's refine it', 'Gary Gross', '117', 'open', 'VisionStmt', '1323174382', 'VisionStmt', 'a:17:{i:0;a:3:{s:2:"id";s:3:"147";s:4:"name";s:13:"John Bertrand";s:5:"sense";b:1;}i:1;a:3:{s:2:"id";s:3:"153";s:4:"name";s:12:"Gary Venning";s:5:"sense";b:1;}i:2;a:3:{s:2:"id";s:3:"174";s:4:"name";s:12:"Quinn Ahrens";s:5:"sense";b:1;}i:3;a:3:{s:2:"id";s:3:"175";s:4:"name";s:12:"Diana Ahrens";s:5:"sense";b:1;}i:4;a:3:{s:2:"id";s:3:"171";s:4:"name";s:16:"James Rutherford";s:5:"sense";b:1;}i:5;a:3:{s:2:"id";s:3:"172";s:4:"name";s:14:"Charles Taylor";s:5:"sense";b:1;}i:6;a:3:{s:2:"id";s:3:"173";s:4:"name";s:13:"Scott Langton";s:5:"sense";b:1;}i:7;a:3:{s:2:"id";s:3:"177";s:4:"name";s:10:"Don Folley";s:5:"sense";b:1;}i:8;a:3:{s:2:"id";s:3:"179";s:4:"name";s:1 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[06-Dec-2011 06:29:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, descname, datetimeopened, filesdir, auth) values('BMA Vision Statememt', 'Refine Vision Statement', 'Let's refine it', 'Gary Gross', '117', 'open', 'VisionStmt', '1323174545', 'VisionStmt', 'a:17:{i:0;a:3:{s:2:"id";s:3:"147";s:4:"name";s:13:"John Bertrand";s:5:"sense";b:0;}i:1;a:3:{s:2:"id";s:3:"153";s:4:"name";s:12:"Gary Venning";s:5:"sense";b:0;}i:2;a:3:{s:2:"id";s:3:"174";s:4:"name";s:12:"Quinn Ahrens";s:5:"sense";b:0;}i:3;a:3:{s:2:"id";s:3:"175";s:4:"name";s:12:"Diana Ahrens";s:5:"sense";b:0;}i:4;a:3:{s:2:"id";s:3:"171";s:4:"name";s:16:"James Rutherford";s:5:"sense";b:0;}i:5;a:3:{s:2:"id";s:3:"172";s:4:"name";s:14:"Charles Taylor";s:5:"sense";b:0;}i:6;a:3:{s:2:"id";s:3:"173";s:4:"name";s:13:"Scott Langton";s:5:"sense";b:0;}i:7;a:3:{s:2:"id";s:3:"177";s:4:"name";s:10:"Don Folley";s:5:"sense";b:0;}i:8;a:3:{s:2:"id";s:3:"179";s:4:"name";s:14:"Nancy Bert in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[06-Dec-2011 06:37:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into projects(pjname, shortdesc, abstract, submittedbynm, submittedbyid, istatus, descname, datetimeopened, filesdir, auth) values('BMA Vision Statement', 'Let's refine it', 'yes lets', 'Gary Gross', '117', 'open', 'BMAVisionStmt', '1323175021', 'BMAVisionStmt', 'a:17:{i:0;a:3:{s:2:"id";s:3:"147";s:4:"name";s:13:"John Bertrand";s:5:"sense";b:0;}i:1;a:3:{s:2:"id";s:3:"153";s:4:"name";s:12:"Gary Venning";s:5:"sense";b:0;}i:2;a:3:{s:2:"id";s:3:"174";s:4:"name";s:12:"Quinn Ahrens";s:5:"sense";b:0;}i:3;a:3:{s:2:"id";s:3:"175";s:4:"name";s:12:"Diana Ahrens";s:5:"sense";b:0;}i:4;a:3:{s:2:"id";s:3:"171";s:4:"name";s:16:"James Rutherford";s:5:"sense";b:0;}i:5;a:3:{s:2:"id";s:3:"172";s:4:"name";s:14:"Charles Taylor";s:5:"sense";b:0;}i:6;a:3:{s:2:"id";s:3:"173";s:4:"name";s:13:"Scott Langton";s:5:"sense";b:0;}i:7;a:3:{s:2:"id";s:3:"177";s:4:"name";s:10:"Don Folley";s:5:"sense";b:0;}i:8;a:3:{s:2:"id";s:3:"179";s:4:"name";s:14:"Nancy Bertrand";s:5 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[07-Jul-2012 07:16:39] PHP Warning:  include_once(/home/artmarie/public_html/dbdata.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Projects/commentfromproject.php on line 6
+[07-Jul-2012 07:16:39] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Projects/commentfromproject.php on line 6
+[07-Jul-2012 07:16:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39
+[07-Jul-2012 07:18:11] PHP Warning:  include(/home/artmarie/public_html/dbdata.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Projects/project.php on line 15
+[07-Jul-2012 07:18:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Projects/project.php on line 15
+[07-Jul-2012 07:18:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39
+[11-Jul-2012 20:04:30] PHP Warning:  move_uploaded_file(/home/artmarie/public_html/Pub2/login/ProjectFiles/test/2012-07-11 17.00.18.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/rFormClass.php on line 1702
+[11-Jul-2012 20:04:30] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpBBGqJP' to '/home/artmarie/public_html/Pub2/login/ProjectFiles/test/2012-07-11 17.00.18.jpg' in /home/artmarie/public_html/Pub2/login/rFormClass.php on line 1702

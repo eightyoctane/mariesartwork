@@ -1,0 +1,7 @@
+AddHandler fcgid-script .fcgi
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule (media/.*)$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(admin/.*)$ index.fcgi/$1 [L]

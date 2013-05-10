@@ -1,0 +1,13 @@
+<form method="POST">
+	<table border="1" style="border-collapse: collapse; font-family:Arial; font-size:10pt" width="39%" id="table1">
+		<tr>
+			<td width="106">Yes <?=$this->idisplayCheckBox("yesvote",$this->putProperButton())?> 
+	No <?=$this->idisplayCheckBox("novote",$this->putProperButton())?> 
+	</td>
+			<td><?=$this->idisplaySimpleErrorText("voteerror",$this->putProperButton())?></td>
+			<td width="286">Comment: <?=$this->idisplayTextBox("votecomment",$this->putProperButton())?>
+	<?=$this->idisplaySubmit('submitbutton',$this->putProperButton())?>	
+	</td>
+		</tr>
+	</table>
+</form>

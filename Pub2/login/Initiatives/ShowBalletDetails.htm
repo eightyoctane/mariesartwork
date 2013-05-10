@@ -1,0 +1,40 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Name</title>
+</head>
+
+<body>
+
+<table border="1" width="58%" cellpadding="6" style="border-collapse: collapse">
+	<tr>
+		<td>Please remember that web voting is informal and not final. Final 
+		votes must be submitted in writing. </td>
+	</tr>
+	<tr>
+		<td>Voting statistics at this moment for initiative: <?=$this->displayText('iname')?></td>
+	</tr>
+	<tr>
+		<td><?=$this->displayText('votestotal')?> votes out of <?=$this->displayText('possible')?> are in, so the initiative is 
+		currently <?=$this->displayText('results')?> , but this status can change until the voting deadline is reached.</td>
+	</tr>
+	<tr>
+		<td>
+		<table border="0" width="100%" cellpadding="6" style="border-collapse: collapse">
+			<tr>
+				<td>Yes Votes: <?=$this->displayText('votesyes')?> </td>
+				<td>No Votes: <?=$this->displayText('votesno')?></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td>Voter Results:<p><?=$this->displayText('votertable')?></td>
+	</tr>
+</table>
+
+</body>
+
+</html>

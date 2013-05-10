@@ -1,0 +1,174 @@
+body {
+	margin: 0;
+  	padding: 0;
+  	font-family: helvetica,arial,sans-serif;
+}
+
+td, th, input, select {
+	font-family: helvetica,arial,sans-serif;
+}
+
+DIV.topnav {
+	font-family: verdana, helvetica,arial,sans-serif;
+	width: 100%;
+	background-color: #006699;
+}
+
+DIV.sidenav
+{
+	float: left;
+	margin-left: 4px;
+	font-size: 12px;
+	width: 120px;
+}
+DIV.mainContent
+{
+	float: left;
+	width: 800px;
+}
+
+.clear {
+	clear: both;
+	line-height: 1px;
+}
+
+DIV.footer 
+{
+	text-align: center;
+	padding-bottom: 4px;
+	font-size: 10px;	
+}
+
+
+DIV.menuLevelOne
+{
+	padding-top: 6px;
+	padding-bottom: 0px;
+	float: left;
+}
+	
+DIV.menuLevelTwo
+{
+	font: 9px;
+	padding-bottom: 8px;
+	float: left;
+}
+
+DIV.menuRightArrow {
+	font-size: 0px; line-height: 0%; width: 0px;
+	border-top: 5px solid #ffffff;
+	border-left: 10px solid #77c;
+	border-bottom: 5px solid #ffffff;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+	
+DIV.menuLevelThree
+{
+	
+}
+
+A:link,
+A:active,
+A:visited {
+	color: #006699;
+}
+
+.error {
+	font-family : Helvetica, Verdana, Arial, sans-serif;
+	font-size : 11px;
+    color : Red;
+}
+
+.title {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+TABLE.data {
+	background: #ffffff;
+}
+
+TABLE.data TH {
+	font-size: 11px;
+	font-family: verdana,sans-serif;
+	background: #006699;
+	color: #ffffff;
+	border: #cccccc outset 1px;
+}
+
+TABLE.data TD {
+	font-size: 11px;
+	background: #d6e6f5;
+}
+
+TABLE.std {
+	background: #ffffff;
+	border: 2px solid #006699;
+}
+
+TABLE.std TD {
+	background: #d6e6f5;
+}
+
+TABLE.ing {
+	background: #d6e6f5;
+	border: 2px solid #006699;
+}
+
+TABLE.ing TD {
+	background: #ffffff;
+}
+
+TABLE.ing PRE {
+	font-family: helvetica,arial,sans-serif;
+	font-size: 13px;
+}
+
+DIV.sidebox {
+	width: 90px;
+	border: 1px #006699 solid;
+	font-family : Helvetica, Verdana, Arial, sans-serif;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	padding-left: 1px;
+	padding-bottom: 2px;
+}
+INPUT.sidebox_text {
+	width: 80px;
+}
+
+.button {
+	border: 1px black solid;
+	font-family: verdana,sans-serif; font-size: 9pt
+}
+
+.field_textbox {
+	font-family : Helvetica, Verdana, Arial, sans-serif;
+	font-size : 11px;
+	background : White;
+	color : Black;
+	border : 1px solid Black;
+}
+
+.field_checkbox {
+ 	font-family : Helvetica, Verdana, Arial, sans-serif;
+	font-size : 11px;
+	background : White;
+	color : Black;
+}
+
+.addItems { list-style-type: none; margin: 0; padding: 0; width: 120px; }
+.addItems li { margin: 0 3px 3px 3px; padding: 0.2em; padding-left: 10px; font-size: 1.0em; height: 22px; }
+.addItems li span { position: relative; left: 56px; top: -20px;}
+
+.borderedItem {
+	border-style:solid;
+	border-width:1px;
+	border-color: #006699;
+	padding:2px 2px 2px 4px;
+	margin-top: 8px;
+	width: 580px;
+}

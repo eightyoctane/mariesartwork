@@ -1,0 +1,184 @@
+<body>
+
+<form method="POST">
+	<table border="1" style="border-collapse: collapse" width="100%" id="table1" cellpadding="10">
+		<tr>
+			<td width="60%"><u><i><b>New Initiative Section</b></i></u> <font size="2" color="#FF0000"><span style="background-color: #FFFF00">*</span></font> = required field</td>
+			<td width="61%"><u><i><b>Initiatives, Proposals, Committees at BMA</b></i></u></td>
+		</tr>
+		<tr>
+			<td width="60%" align="left" valign="top">
+			<input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2"><p>
+			&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table8" cellpadding="10">
+				<tr>
+					<td> Initiative Name: <?=$this->displayTextBox("iname")?></td>
+					<td>
+			<?=$this->displaySimpleErrorText("iname")?></td>
+				</tr>
+			</table>
+			<p>
+			&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="94%" id="table7" cellpadding="10">
+				<tr>
+					<td>Unique Descriptive Name for the Initiative:&nbsp;&nbsp; <?=$this->displayTextBox("descname")?></td>
+					<td><?=$this->displaySimpleErrorText("descname")?></td>
+					<td>Any short single word name</td>
+				</tr>
+			</table>
+			<p>&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table5" cellpadding="10">
+				<tr>
+					<td align="left" valign="top" width="178">Short Description:</td>
+					<td align="left" valign="top"><?=$this->displayTextArea("shortdescription")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("shortdescription")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Abstract: </td>
+					<td align="left" valign="top"><?=$this->displayTextArea("abstract")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("abstract")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Proposal 
+					Requirements:</td>
+					<td align="left" valign="top">
+					<?=$this->displayTextArea("proposalreq")?></td>
+					<td width="77">
+					<?=$this->displaySimpleErrorText("proposalreq")?><p>Here you specify the minimum requirements for 
+							content of any proposal (i.e proposal must contain 
+							size, location, cost of this approach)</td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table11" cellpadding="10">
+				<tr>
+					<td>Submitted by: <?=$this->displaySimpleText("submittedby")?></td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table2" cellpadding="10">
+				<tr>
+					<td width="34%">Make me the chairman:
+					<?=$this->displayCheckBox("mechairman")?>
+					<td width="61%">This doesn't guarantee you will be the chairman, rather 
+					only that you have volunteered. In most cases, if you really believe in 
+					the initiative, 
+					you should volunteer.</td>
+				</tr>
+				<tr>
+					<td colspan="2">I have a proposal ready (right now!):
+					<?=$this->displayCheckBox("doproposal")?></td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table12" cellpadding="10">
+				<tr>
+					<td width="174"><?=$this->displayCheckBox("suggchairman")?> Suggested Chairman:
+					</td>
+					<td><?=$this->displayListTextBox("chairindex")?></td>
+					<td><?=$this->displaySimpleErrorText("chairindex")?></td>
+				</tr>
+			</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table9" cellpadding="10">
+				<tr>
+					<td>Voting Options: <?=$this->displayCheckBox("residentsdecide")?></td>
+					<td>Let the 
+					residents decide (check the box), or let the board decide 
+					(leave the box unchecked) </td>
+				</tr>
+				</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table10" cellpadding="10">
+				<tr>
+					<td align="left" valign="top">Voting deadline:
+					<?=$this->displayTextBox("vdeadline")?> number of 
+					days</td>
+					<td width="154"><?=$this->displaySimpleErrorText("vdeadline")?></td>
+				</tr>
+			</table>
+			</td>
+			<td width="61%" align="left" valign="top">
+			<table border="1" style="border-collapse: collapse" width="100%" id="table3">
+				<tr>
+					<td>
+					<h4>Making Proposals at BMA</h4>
+					<p>Initiatives are started by BMA owners/residents as ideas 
+					and recommendations to solve problems, meet needs, and 
+					improve overall lifestyle at Blue Mountain Airpark. 
+					Initiatives don't get anything done however. Initiatives are 
+					just a mechanism to garner support for a [good] idea. 
+					Anyone can create an initiative, but remember, if you 
+					create one, your name is attached to it.</p>
+					<p><u><b><i>NOTE:&nbsp;&nbsp; </i></b></u>Anything 
+					associated with initiatives and proposals on the website is 
+					informal, final voting must be submitted in writing to the 
+					Board of Directors.</p>
+					<h4>Initiative Stage</h4>
+					<ol>
+						<li>Open an initiative (this screen)</li>
+						<li>Submit at least one proposal (multiples preferred)</li>
+						<li>Get the votes you need to get the initiative 
+						approved before the voting deadline arrives</li>
+					</ol>
+					<p>Each initiative is associated with one or more proposals. 
+					Later, when votes are cast for an initiative, they are cast 
+					with a comment. This gives the voter the opportunity to 
+					state which proposal is favored. Votes and comments are 
+					public and can be viewed by everyone in the community while 
+					the voting phase is in progress. Votes and comments can be 
+					changed by each casting voter, at any time during the voting 
+					period. </p>
+					<p>Be sure to leave enough time for voting. 
+					Once the deadline arrives, the initiative will be set to 
+					&quot;approved&quot;, &quot;rejected&quot;, or &quot;uncertainq&quot; . The term &quot;uncertainq&quot; 
+					just means that we never established a voting quorum (&gt;30% 
+					of the possible voters voted), and the initiative closed due 
+					to lack of interest.</p>
+					<p>If the initiative results in &quot;rejected&quot; or &quot;uncertainq&quot;, 
+					it is essentially closed. Once the initiative closes, it must be 
+					re-approved by the Board, and reopened by a Board 
+					Member. If the initiative is &quot;accepted&quot;, the next phase is 
+					the &quot;Committee Phase&quot;.</p>
+					<h4>Committee Phase</h4>
+					<p>The board president or vice president has the authority 
+					to create a new committee and assign a chairman. Once the 
+					chairman is assigned, the new chairman manage the committee, 
+					and will add committee members with defined 
+					responsibilities. </p>
+					<ol>
+						<li>Present ideas/proposals (face-to-face) to the board 
+						and residents formally and informally</li>
+						<li>Help build the committee (and lead the committee) and 
+						participate on the committee</li>
+						<li>Identify the most accepted proposal and 
+						start work</li>
+						<li>Take responsibility for getting the project done</li>
+					</ol>
+					<h4>Initiatives Page Information (help with this screen)</h4>
+					<p>Initiative Name &gt; just an identifier, pick something that 
+					is indicative. (Ex: BMA Equipment and Tool Storage Building)</p>
+					<p>Short Description &gt; (Ex: We need a storage building to 
+					house the BMA lawn mowers and miscellaneous tools)</p>
+					<p>Abstract: Your sales pitch</p>
+					<p>&quot;I have a proposal ready&quot; &gt; If you check this box you 
+					will get another screen after this one that enables you to 
+					upload a detailed proposal (this should be a pdf or doc file). It's a 
+					great idea to submit a detailed proposal right now, even 
+					before the initiative is approved. This will eliminate all 
+					questions regarding whether or not you are serious about the 
+					initiative. Anybody can submit proposals before the voting 
+					deadline.</p>
+					<p>Suggested Chairman: If you select this, the person you 
+					are volunteering will get an email indicating that you 
+					volunteered them.</p>
+					<p>Voting Deadline &gt; This is the number of days that the 
+					selected group has available to cast a vote and comment on 
+					the news page to indicate their support. This doesn't mean 
+					it's their responsibility to vote by that time. It's your 
+					responsibility to remind (hound) them to make a decision. 
+					After the deadline, the Initiative will be set to it's new 
+					state. </td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</form>
+
+</body>

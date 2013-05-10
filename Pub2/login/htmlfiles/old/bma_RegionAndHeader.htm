@@ -1,0 +1,86 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- #BeginEditable "doctitle" -->
+<title>Blue Mountain Airpark</title>
+<!-- #EndEditable -->
+<?=$this->head?>
+</head>
+
+<body style="font-family: Arial; font-size: 10pt">
+<form><?=$this->shiddenval?></form>
+<table border="0" cellpadding="0" cellspacing="0" width="1024" height="685">
+	<!-- MSTableType="layout" -->
+	<tr>
+		<td valign="top">
+		<!-- MSCellType="ContentHead" -->
+		<!-- #BeginEditable "Header" -->
+		<table border="0" width="100%" id="table1" style="border-collapse: collapse">
+			<?=$this->shiddenvalue?>
+			<tr>
+				<td>
+				<table border="0" width="100%" style="border-collapse: collapse">
+					<tr>
+						<td width="795">
+						<table border="0" width="100%" style="border-collapse: collapse" id="table3">
+							<tr>
+								<td width="330"><i><font size="5" face="ST MicroSquare Ex"><?=$this->sitetitle?></td>
+								<td align="left" valign="bottom"> <?=$this->loginstatus?></td>
+								<td align="right" valign="bottom"><?=$this->stats?></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="795">
+						<table border="0" style="border-collapse: collapse" width="100%" id="table2">
+							<tr>
+								<td width="392"> <?=$this->statusbar?></td>
+								<td align="right" valign="top"><?=$this->errorstatusbar?></td>
+							</tr>
+						</table>
+						</td>
+					</tr>		
+				</table>
+				</td>
+			</tr>
+		</table>
+<!-- #EndEditable -->
+		</td>
+		<td></td>
+		<td height="56">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" width="854">
+		<!-- MSCellType="ContentHead2" -->
+		<!-- #BeginEditable "Menu" -->
+		<table border="0" width="100%" style="border-collapse: collapse">
+			<tr>
+				<td><?=$this->menu?></td>
+			</tr>
+		</table>
+		<!-- #EndEditable --></td>
+		<td width="4"></td>
+		<td height="18"></td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="2" rowspan="2">
+		<!-- MSCellType="ContentBody" -->
+		<!-- #BeginEditable "Body" --><?=$this->body?><!-- #EndEditable --></td>
+		<td height="32">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" width="166" height="579">
+		<!-- MSCellType="NavBody" -->
+		<!-- #BeginEditable "RightSide" -->&nbsp;<!-- #EndEditable --></td>
+	</tr>
+</table>
+<!-- #BeginEditable "Footer" -->
+<p><?=$this->footer?></p>
+<!-- #EndEditable -->
+
+</body>
+
+</html>

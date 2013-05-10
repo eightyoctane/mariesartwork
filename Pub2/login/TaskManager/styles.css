@@ -1,0 +1,210 @@
+@charset "utf-8";
+.Ctrltitle {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #666666;
+	font-weight: bold;
+	text-decoration: none;
+}
+.Footer {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #666666;
+	text-decoration: none;
+}
+.sectiontitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: #CCCCCC;
+	font-weight: bold;
+	padding: 3px;
+	border: 1px solid #999999;
+}
+.SectionLabels {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: #EAEAEA;
+	padding: 3px;
+}
+.submit_buttons {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+.inputfields {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	width: 150px;
+}
+.SectionOuterBorder {
+	border: 1px solid #999999;
+}
+.inputSelect {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+.green_button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ECF3D5;
+	background-color: #8FB700;
+	display: inline;
+	border: 1px solid #ECF3D5;
+	text-decoration: none;
+	background-position: center center;
+	padding: 3px;
+	vertical-align: middle;
+}
+a.green_button:hover {
+	background-color:#FFCC00;
+	color:#000000;
+}
+a.green_button:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	background-color: #999999;
+	display: inline;
+	border: 1px solid #CCCCCC;
+	text-decoration: none;
+	background-position: center center;
+	padding: 3px;
+	vertical-align: middle;
+}
+.button_css {
+
+	height: 20px;
+	font-family: Arial;
+	font-size: 11px;
+	text-decoration: none;
+	border: 1px solid #000000;
+	padding: 2px;
+}
+.ListItems {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+
+.around {
+margin: 10px auto 0px auto;
+width: 144px;
+border: 0px solid #CCCCCC;
+padding: 0px;
+text-align:justify;
+line-height:10px;
+height:350px;
+}
+
+.small { font-family: Verdana, Geneva, Courier; font-size: 5pt; color: #CCCCCC;}
+
+.cloud {
+margin: 144px auto 0px auto;
+width: 400px;
+border: 1px solid #CCCCCC;
+padding: 5px;
+text-align:justify;
+line-height:10px;
+height:349px;
+}
+
+.myDiv {
+width:250px;
+}
+
+.tag_cloud8{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud8:link { color: #00F0FF; }
+.tag_cloud8:visited { color: #00F0FF; text-decoration: none; }
+.tag_cloud8:hover { color: #000AD2; }
+.tag_cloud8:active { color: #00F0FF; }
+	
+.tag_cloud9{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud9:link { color: #00D9FF; }
+.tag_cloud9:visited { color: #00D9FF; text-decoration: none; }
+.tag_cloud9:hover { color: #000AD2; }
+.tag_cloud9:active { color: #00F0FF; }
+	
+.tag_cloud10{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud10:link { color: #00B3FF; }
+.tag_cloud10:visited { color: #00B3FF; text-decoration: none; }
+.tag_cloud10:hover { color: #000AD2; }
+.tag_cloud10:active { color: #00F0FF; }
+
+.tag_cloud11{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud11:link { color: #00B3FF; }
+.tag_cloud11:visited { color: #00B3FF; text-decoration: none; }
+.tag_cloud11:hover { color: #000AD2; }
+.tag_cloud11:active { color: #00F0FF; }
+
+.tag_cloud12{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud12:link { color: #00B3FF; }
+.tag_cloud12:visited { color: #00B3FF; text-decoration: none; }
+.tag_cloud12:hover { color: #000AD2; }
+.tag_cloud12:active { color: #00F0FF; }
+
+.tag_cloud13{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud13:link { color: #0066FF; }
+.tag_cloud13:visited { color: #0066FF; text-decoration: none; }
+.tag_cloud13:hover { color: #000AD2; }
+.tag_cloud13:active { color: #0066FF; }
+
+
+.tag_cloud14{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud14:link { color: #0066FF; }
+.tag_cloud14:visited { color: #0066FF; text-decoration: none; }
+.tag_cloud14:hover { color: #000AD2; }
+.tag_cloud14:active { color: #0066FF; }
+
+.tag_cloud15{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud15:link { color: #0066FF; }
+.tag_cloud15:visited { color: #0066FF; text-decoration: none; }
+.tag_cloud15:hover { color: #000AD2; }
+.tag_cloud15:active { color: #0066FF; }
+
+.tag_cloud16{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud16:link { color: #0066FF; }
+.tag_cloud16:visited { color: #0066FF; text-decoration: none; }
+.tag_cloud16:hover { color: #000AD2; }
+.tag_cloud16:active { color: #0066FF; }
+
+.tag_cloud17{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud17:link { color: #0057F8; }
+.tag_cloud17:visited { color: #0057F8; text-decoration: none; }
+.tag_cloud17:hover { color: #000AD2; }
+.tag_cloud17:active { color: #0057F8; }
+
+.tag_cloud18{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud18:link { color: #0057F8; }
+.tag_cloud18:visited { color: #0057F8; text-decoration: none; }
+.tag_cloud18:hover { color: #000AD2; }
+.tag_cloud18:active { color: #0057F8; }
+
+.tag_cloud19{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud19:link { color: #0057F8; }
+.tag_cloud19:visited { color: #0057F8; text-decoration: none; }
+.tag_cloud19:hover { color: #000AD2; }
+.tag_cloud19:active { color: #0057F8; }
+
+.tag_cloud20{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud20:link { color: #0057F8; }
+.tag_cloud20:visited { color: #0057F8; text-decoration: none; }
+.tag_cloud20:hover { color: #000AD2; }
+.tag_cloud20:active { color: #0057F8; }
+
+.tag_cloud21{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud21:link { color: #004DF2; }
+.tag_cloud21:visited { color: #004DF2; text-decoration: none; }
+.tag_cloud21:hover { color: #000AD2; }
+.tag_cloud21:active { color: #004DF2; }
+
+.tag_cloud30{padding: 1px; text-decoration: none; font-family: verdana; }
+.tag_cloud30:link { color: #000AD2; }
+.tag_cloud30:visited { color: #000AD2; text-decoration: none; }
+.tag_cloud30:hover { color: #000000; }
+.tag_cloud30:active { color: #000AD2; }
+

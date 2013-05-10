@@ -1,0 +1,7 @@
+
+braindump test
+<?
+
+phpinfo();
+
+?>

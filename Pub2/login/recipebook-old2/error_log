@@ -1,0 +1,1 @@
+[13-Sep-2011 13:55:23] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/bmasite/public_html/Pub2/login/recipebook/themes/default/header.php on line 43

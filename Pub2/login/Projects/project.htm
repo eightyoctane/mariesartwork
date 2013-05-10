@@ -1,0 +1,75 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Project Section * = required</title>
+<body>
+
+<form method="POST">
+	<table border="1" style="border-collapse: collapse" width="100%" id="table1" cellpadding="10">
+		<tr>
+			<td width="60%"><u><i><b>New Project Section</b></i></u> <font size="2" color="#FF0000"><span style="background-color: #FFFF00">*</span></font> = required field</td>
+			<td width="61%"><u><b><i>Projects</i></b><i><b> at BMA</b></i></u></td>
+		</tr>
+		<tr>
+			<td width="60%" align="left" valign="top">
+			<input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2"><p>
+			&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table8" cellpadding="10">
+				<tr>
+					<td> Project Name: <?=$this->displayTextBox("pjname")?></td>
+					<td>
+			<?=$this->displaySimpleErrorText("pjname")?></td>
+				</tr>
+			</table>
+			<p>
+			&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="94%" id="table7" cellpadding="10">
+				<tr>
+					<td>Unique Descriptive Name for the Project:&nbsp;&nbsp; <?=$this->displayTextBox("descname")?></td>
+					<td><?=$this->displaySimpleErrorText("descname")?></td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+			<p>&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table5" cellpadding="10">
+				<tr>
+					<td align="left" valign="top" width="178">Short Description:</td>
+					<td align="left" valign="top"><?=$this->displayTextArea("shortdesc")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("shortdesc")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Abstract: </td>
+					<td align="left" valign="top"><?=$this->displayTextArea("abstract")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("abstract")?></td>
+				</tr>
+				</table>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table11" cellpadding="10">
+				<tr>
+					<td>Submitted by: <?=$this->displaySimpleText("submittedby")?></td>
+				</tr>
+				<tr>
+					<td>
+					<table border="1" width="100%" style="border-collapse: collapse">
+						<tr>
+							<td>Project Authorization List:<p><?=$this->displayCBList('auth')?></td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>
+			<td width="61%" align="left" valign="top">
+			<table border="1" style="border-collapse: collapse" width="100%" id="table3">
+				<tr>
+					<td>
+					A new project can be started only by a board member.<p>The 
+					project is accessible by members of the committee, specified 
+					at the time of project inception.</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</form>
+
+</body>

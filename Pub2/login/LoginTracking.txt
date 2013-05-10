@@ -1,0 +1,1 @@
+12/12/11 validateLoginInput.php: Gary Gross/eightyoctane user type 2, user priv 6 logged in on Mon Dec 12 12:36:43 CST 2011

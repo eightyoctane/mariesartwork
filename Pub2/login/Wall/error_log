@@ -1,0 +1,166 @@
+[11-Oct-2011 15:23:05] PHP Warning:  include(db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 5
+[11-Oct-2011 15:23:05] PHP Warning:  include(db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 5
+[11-Oct-2011 15:23:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 5
+[11-Oct-2011 15:23:05] PHP Warning:  include(tolink.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:23:05] PHP Warning:  include(tolink.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:23:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'tolink.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:23:05] PHP Fatal error:  Call to undefined function  tolink() in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 35
+[11-Oct-2011 15:24:20] PHP Warning:  include(tolink.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:24:20] PHP Warning:  include(tolink.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:24:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'tolink.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 8
+[11-Oct-2011 15:24:20] PHP Fatal error:  Call to undefined function  tolink() in /home/bmasite/public_html/Pub2/login/Wall/preload_msg_ajax.php on line 35
+[11-Oct-2011 18:20:16] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[11-Oct-2011 18:20:16] PHP Fatal error:  Call to undefined function  preload_msg_ajax() in /home/bmasite/public_html/Pub2/login/Wall/news.php on line 24
+[11-Oct-2011 21:51:39] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[11-Oct-2011 21:54:40] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[11-Oct-2011 21:54:40] PHP Parse error:  syntax error, unexpected '<' in /home/bmasite/public_html/Pub2/login/Wall/bma_RegionAndHeader.htm on line 4
+[11-Oct-2011 21:55:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[11-Oct-2011 22:04:55] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[11-Oct-2011 22:05:35] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 10:46:59] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 10:51:26] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 10:52:14] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 10:52:45] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 10:58:14] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 11:27:40] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 11:34:57] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 11:34:57] PHP Fatal error:  Cannot redeclare tolink() (previously declared in /home/bmasite/public_html/Pub2/login/Wall/includes/tolink.php:2) in /home/bmasite/public_html/Pub2/login/Wall/includes/tolink.php on line 14
+[12-Oct-2011 11:37:05] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 11:37:05] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 13:56:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 13:56:20] PHP Fatal error:  Call to undefined function  preload_messages() in /home/bmasite/public_html/Pub2/login/Wall/news.php on line 27
+[12-Oct-2011 14:04:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:04:16] PHP Fatal error:  Call to undefined function  preload_messages() in /home/bmasite/public_html/Pub2/login/Wall/news.php on line 27
+[12-Oct-2011 14:05:40] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 102
+[12-Oct-2011 14:07:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:07:17] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:07:17] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:07:17] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 92
+[12-Oct-2011 14:11:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:11:03] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:03] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:03] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 92
+[12-Oct-2011 14:11:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:11:36] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:36] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:36] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 92
+[12-Oct-2011 14:11:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:11:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:50] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 92
+[12-Oct-2011 14:11:57] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:11:57] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:57] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:11:57] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 92
+[12-Oct-2011 14:13:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:13:25] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 28
+[12-Oct-2011 14:13:25] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 21
+[12-Oct-2011 14:14:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:14:24] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 28
+[12-Oct-2011 14:14:24] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 21
+[12-Oct-2011 14:17:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:17:02] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 31
+[12-Oct-2011 14:17:02] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 21
+[12-Oct-2011 14:19:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:19:01] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:19:01] PHP Fatal error:  Call to a member function Gravatar() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 19
+[12-Oct-2011 14:21:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:21:10] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:21:10] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:21:10] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 22
+[12-Oct-2011 14:21:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:21:27] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:21:27] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:21:27] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 22
+[12-Oct-2011 14:23:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/includes/time_stamp.php:2) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:23:53] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:23:53] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:23:53] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 22
+[12-Oct-2011 14:25:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:113) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:25:38] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:25:38] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:25:38] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 14:27:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:112) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:27:01] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:01] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:01] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 26
+[12-Oct-2011 14:27:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:112) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 14:27:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:33] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 14:27:33] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 101
+[12-Oct-2011 15:06:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:112) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 15:06:24] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:24] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:24] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 101
+[12-Oct-2011 15:06:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:112) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 15:06:27] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:27] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:27] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 101
+[12-Oct-2011 15:06:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:112) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 15:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:53] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 15:06:53] PHP Fatal error:  Call to a member function LogMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 101
+[12-Oct-2011 20:42:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:113) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 20:42:24] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 21:04:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:113) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 21:04:32] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 21:07:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php:113) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[12-Oct-2011 21:07:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:07:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:07:21] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 21:08:52] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:08:52] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:08:52] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 21:10:26] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:10:26] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:10:26] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[12-Oct-2011 21:11:45] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:11:45] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:13:19] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:13:19] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:13:34] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:13:34] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:14:42] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:14:42] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:15:17] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:15:17] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/preload_comments.php on line 13
+[12-Oct-2011 21:15:17] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:28:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:28:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:28:21] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:30:11] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:30:11] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:30:11] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:30:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:30:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:30:13] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:39:41] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:39:41] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:39:41] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:40:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:40:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:40:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:40:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:41:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:41:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:41:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:41:50] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:42:26] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:42:26] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:42:26] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:44:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:44:13] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:44:13] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27
+[13-Oct-2011 05:46:32] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:46:32] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:48:25] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:48:25] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:49:07] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:49:07] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:52:43] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:52:43] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:53:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:53:21] PHP Warning:  Invalid argument supplied for foreach() in /home/bmasite/public_html/Pub2/login/Wall/load_comments.php on line 4
+[13-Oct-2011 05:56:32] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Wall/preload_messages.php on line 27

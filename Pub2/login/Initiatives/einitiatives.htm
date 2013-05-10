@@ -1,0 +1,54 @@
+<body>
+
+<form method="POST">
+	<table border="1" style="border-collapse: collapse" width="100%" id="table1" cellpadding="10">
+		<tr>
+			<td width="60%"><u><b><i>Edit </i></b><i><b>Initiative Section</b></i></u> <font size="2" color="#FF0000"><span style="background-color: #FFFF00">*</span></font> = required field</td>
+		</tr>
+		<tr>
+			<td width="60%" align="left" valign="top">
+			<input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2"><p>
+			&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table8" cellpadding="10">
+				<tr>
+					<td> Initiative Name: <?=$this->displayTextBox("iname")?></td>
+					<td width="77">
+			<?=$this->displaySimpleErrorText("iname")?></td>
+				</tr>
+			</table>
+			<p>&nbsp;</p>
+			<table border="0" style="border-collapse: collapse" width="100%" id="table5" cellpadding="10">
+				<tr>
+					<td align="left" valign="top" width="178">Short Description:</td>
+					<td align="left" valign="top"><?=$this->displayTextArea("shortdescription")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("shortdescription")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Abstract: </td>
+					<td align="left" valign="top"><?=$this->displayTextArea("abstract")?></td>
+					<td width="77"><?=$this->displaySimpleErrorText("abstract")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Proposal 
+					Requirements:</td>
+					<td align="left" valign="top">
+					<?=$this->displayTextArea("proposalreq")?></td>
+					<td width="77">
+					<?=$this->displaySimpleErrorText("proposalreq")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="178">Voting deadline:
+					</td>
+					<td align="left" valign="top">
+					<?=$this->displayTextBox("vdeadline")?> (number of 
+					days from now)</td>
+					<td width="77">
+					<?=$this->displaySimpleErrorText("vdeadline")?></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</form>
+
+</body>

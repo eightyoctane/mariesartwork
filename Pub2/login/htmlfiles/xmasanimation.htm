@@ -1,0 +1,58 @@
+	<td width="203">airplane banner</td>
+		<td>/*
+Mastering JavaScript, Premium Edition
+by James Jaworski 
+
+ISBN:078212819X
+Publisher Sybex CopyRight 2001
+*/
+<html>
+<head>
+<title>Animation with Divisions</title>
+</head>
+<script language="JavaScript">
+function fly() {
+ if(document.getElementById) {
+  var planeStyle = document.getElementById("plane").style
+  window.defaultStatus = "("+planeStyle.left+","+planeStyle.top+")"
+  if(parseInt(planeStyle.top) < 10) {
+   planeStyle.left = 0
+   planeStyle.top = 400
+  }else{
+   planeStyle.left = parseInt(planeStyle.left) + 8
+   planeStyle.top = parseInt(planeStyle.top) - 5
+  }
+ }else if(document.all) {
+  var planeStyle=window.document.all.plane.style
+  window.defaultStatus = "("+planeStyle.posLeft+","+planeStyle.posTop+")"
+  if(planeStyle.posTop < 10) {
+   planeStyle.posLeft = 0
+   planeStyle.posTop = 400
+  }else{
+   planeStyle.posLeft += 8
+   planeStyle.posTop -= 5
+  }
+ }
+}
+</script>
+<body bgcolor="blue" onload="setInterval('fly()',100)">
+<div name="heading" style="position:absolute;left:100;top:100;z-index:3">
+<h1 style="color: rgb(255,255,0);">Merry Christmas Page</h1>
+</div>
+<div id="plane" style="position:absolute;left:0;top:400;z-index:2">
+<img src="http://www.java2s.com/style/logo.png">
+</div>
+<div id="cloud1" style="position:absolute;left:150;top:300;z-index:3">
+<img src="cloud.gif">
+</div>
+<div id="cloud2" style="position:absolute;left:250;top:200;z-index:3">
+<img src="cloud.gif">
+</div>
+<div id="cloud3" style="position:absolute;left:350;top:150;z-index:1">
+<img src="cloud.gif">
+</div>
+<div id="cloud4" style="position:absolute;left:350;top:250;z-index:1">
+<img src="cloud.gif">
+</div>
+</BODY>
+</HTML>

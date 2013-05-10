@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Blue Mountain Airpark</title>
+<?=$this->stylescript?>
+<?=$this->head?>
+</head>
+
+<body>
+<form><p><?=$this->shiddenval?></p></form>
+
+<table border="0" cellpadding="5" cellspacing="5" width="887" height="642" style="font-family: Arial; font-size: 10pt">
+	<!-- MSTableType="layout" -->
+	<tr>
+		<td colspan="4" align="center">
+		<!-- MSCellType="ContentHead" -->
+		<table border="0" width="100%" id="table12" style="border-collapse: collapse">
+			<?=$this->shiddenvalue?>
+			<tr>
+				<td width="98">
+				<img border="0" src="../../../../images/symbol50pct.jpg" width="98" height="103"></td>
+				<td width="121">
+				<img border="0" src="../../../../images/aerial.jpg" width="120" height="92"></td>
+				<td>
+				<table border="0" width="100%" style="border-collapse: collapse" id="table13">
+					<tr>
+						<td width="795"><?=$this->sitetitle?></td>
+					</tr>
+					<tr>
+						<td align="left" valign="top" width="795">
+						<table border="0" width="100%" style="border-collapse: collapse" id="table14">
+							<tr>
+								<td> <?=$this->loginstatus?></td>
+								<td align="right" valign="top"><?=$this->stats?></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="795"> <?=$this->statusbar?></td>
+					</tr>
+					<tr>
+						<td width="795">
+						<table border="0" width="100%" style="border-collapse: collapse" id="table15">
+							<tr>
+								<td><?=$this->errorstatusbar?></td>
+							</tr>
+						</table>
+					</tr>		
+				</table>
+				</td>
+			</tr>
+		</table>
+		<table border="0" style="border-collapse: collapse" width="100%" id="table11">
+			<tr>
+				<td align="left" valign="top"><?=$this->menu?></td>
+			</tr>
+			<tr>
+				<td height="30" align="left" valign="bottom"><?=$this->pagetitle?></td>
+			</tr>
+		</table>
+		</td>
+	<td height="232">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top">
+		<!-- MSCellType="NavBody" -->
+		<?=$this->bodyleft?></td>
+		<td>&nbsp;</td>
+		<td valign="top">
+		<!-- MSCellType="ContentBody" -->
+		<?=$this->body?></td>
+		<td height="327">&nbsp;</td>
+		<td valign="top" rowspan="2">
+		<!-- MSCellType="NavBody2" -->
+		<?=$this->rtbody?></td>
+	</tr>
+	<tr>
+		<td width="278">&nbsp;</td>
+		<td width="28">&nbsp;</td>
+		<td width="416">&nbsp;</td>
+		<td height="29" width="65">&nbsp;</td>
+	</tr>
+	<tr>
+		<td valign="top" colspan="4">
+		<!-- MSCellType="ContentFoot" -->
+		<?=$this->footer?></td>
+		<td height="29" width="20">&nbsp;</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

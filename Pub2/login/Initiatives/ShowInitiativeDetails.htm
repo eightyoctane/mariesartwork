@@ -1,0 +1,41 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Name</title>
+</head>
+
+<body>
+
+<table border="1" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td>Initiative Name: <?=$this->displayText('iname')?></td>
+	</tr>
+</table>
+<table border="1" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td>Submitter: <?=$this->displayText('submittedbynm')?></td>
+		<td>Date Opened: <?=$this->displayDate('datetimeopened')?></td>
+		<td>Voting Duration: <?=$this->displayText('duration')?> (days)</td>
+		<td>Status:<?=$this->displayText('istatus')?></td>
+	</tr>
+</table>
+<table border="1" width="100%" style="border-collapse: collapse">
+	<tr>
+		<td>Description:<p><?=$this->displayText('shortdesc')?></td>
+	</tr>
+	<tr>
+		<td>Minimum Proposal Requirements:<p><?=$this->displayText('proposalreq')?></td>
+	</tr>
+	<tr>
+		<td>Abstract:<p><?=$this->displayText('abstract')?></td>
+	</tr>
+	<tr>
+		<td>Voting Data:<p><?=$this->displayText('resdecidemsg')?></td>
+	</tr>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,1369 @@
+[13-Oct-2011 15:34:03] PHP Parse error:  syntax error, unexpected '"' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 19
+[13-Oct-2011 15:34:38] PHP Warning:  Unterminated comment starting line 41 in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 41
+[13-Oct-2011 15:34:38] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 41
+[13-Oct-2011 15:35:19] PHP Warning:  Missing argument 2 for SessionPageBrowser::__construct(), called in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 16 and defined in /home/bmasite/public_html/Pub2/PresenterClass.php on line 278
+[13-Oct-2011 15:35:19] PHP Warning:  Missing argument 3 for SessionPageBrowser::__construct(), called in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 16 and defined in /home/bmasite/public_html/Pub2/PresenterClass.php on line 278
+[13-Oct-2011 15:35:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/PresenterClass.php:278) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[13-Oct-2011 15:36:28] PHP Warning:  include(bma_RegionAndHeader.htm) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/PresenterClass.php on line 74
+[13-Oct-2011 15:36:28] PHP Warning:  include(bma_RegionAndHeader.htm) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/PresenterClass.php on line 74
+[13-Oct-2011 15:36:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'bma_RegionAndHeader.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/PresenterClass.php on line 74
+[14-Oct-2011 03:54:57] PHP Fatal error:  Call to undefined method rForm::testFields() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 55
+[14-Oct-2011 03:56:09] PHP Warning:  Missing argument 1 for iForm::testFields(), called in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 55 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 225
+[14-Oct-2011 03:56:09] PHP Fatal error:  Call to undefined function  issset() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 227
+[14-Oct-2011 03:56:41] PHP Fatal error:  Call to undefined function  issset() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 227
+[14-Oct-2011 11:13:11] PHP Fatal error:  Class 'iForm' not found in /home/bmasite/public_html/Pub2/login/Initiatives/initiativeDB.php on line 19
+[14-Oct-2011 11:14:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:77
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiativeDB.php(40): mysql->query('CREATE TABLE in...')
+#1 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 77
+[14-Oct-2011 12:03:18] PHP Fatal error:  Call to undefined method iForm::setSubmittedBy() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 55
+[14-Oct-2011 12:03:55] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 220
+[14-Oct-2011 16:00:25] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 242
+[14-Oct-2011 16:21:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 58
+[14-Oct-2011 16:45:18] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting '(' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 61
+[15-Oct-2011 04:43:52] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 85
+[15-Oct-2011 05:17:50] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting '(' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 69
+[15-Oct-2011 21:45:55] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 249
+[16-Oct-2011 08:19:00] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:77
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(61): mysql->query('SELECT u_type, ...')
+#1 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 77
+[16-Oct-2011 08:29:11] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:77
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(61): mysql->query('SELECT u_type, ...')
+#1 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 77
+[16-Oct-2011 08:30:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:77
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(61): mysql->query('SELECT u_type, ...')
+#1 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 77
+[18-Oct-2011 15:32:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 312
+[18-Oct-2011 15:34:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 312
+[18-Oct-2011 15:36:04] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 331
+[18-Oct-2011 15:36:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 376
+[18-Oct-2011 15:37:55] PHP Fatal error:  Call to undefined method iForm::displayErrorMsg() in /home/bmasite/public_html/Pub2/login/Initiatives/initiatives.htm on line 25
+[18-Oct-2011 16:13:43] PHP Parse error:  syntax error, unexpected '"', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 54
+[18-Oct-2011 16:53:42] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 317
+[18-Oct-2011 16:59:28] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 317
+[18-Oct-2011 17:00:56] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 318
+[18-Oct-2011 17:03:26] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 317
+[18-Oct-2011 17:07:42] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 299
+[18-Oct-2011 17:08:10] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 299
+[18-Oct-2011 17:08:12] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 299
+[18-Oct-2011 18:30:48] PHP Warning:  Missing argument 2 for iForm::testFields(), called in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 88 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 400
+[18-Oct-2011 18:30:48] PHP Fatal error:  Call to a member function getTextArea() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 406
+[18-Oct-2011 18:32:30] PHP Fatal error:  Call to undefined function  checkboxvalue() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 437
+[18-Oct-2011 20:39:58] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 402
+[18-Oct-2011 21:19:33] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 403
+[18-Oct-2011 21:56:32] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 176
+[18-Oct-2011 21:59:42] PHP Parse error:  syntax error, unexpected ':' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 120
+[19-Oct-2011 07:52:36] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 322
+[19-Oct-2011 08:32:32] PHP Fatal error:  Call to undefined method logFile::setTextArea() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 54
+[19-Oct-2011 08:33:27] PHP Fatal error:  Call to undefined method logFile::setTextArea() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 54
+[19-Oct-2011 08:33:32] PHP Fatal error:  Call to undefined method logFile::setTextArea() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 54
+[19-Oct-2011 17:09:42] PHP Parse error:  syntax error, unexpected '<' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 307
+[19-Oct-2011 18:06:47] PHP Parse error:  syntax error, unexpected T_IS_IDENTICAL in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 320
+[21-Oct-2011 16:22:18] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 72
+[21-Oct-2011 16:23:09] PHP Fatal error:  Cannot re-assign $this in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 489
+[21-Oct-2011 16:25:27] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 411
+[21-Oct-2011 16:29:07] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 411
+[21-Oct-2011 16:29:10] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 411
+[21-Oct-2011 16:30:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/rFormClass.php(413): mysql->query('SELECT u_type, ...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(65): iForm->setMemberNameSelectionBox(0)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[21-Oct-2011 16:34:11] PHP Fatal error:  Call to a member function fetchObject() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 421
+[21-Oct-2011 16:35:20] PHP Fatal error:  Call to undefined function  inputcomplete() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 74
+[21-Oct-2011 16:35:57] PHP Fatal error:  Cannot use object of type logFile as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 379
+[21-Oct-2011 16:36:53] PHP Fatal error:  Cannot use object of type logFile as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 379
+[21-Oct-2011 16:47:44] PHP Fatal error:  Cannot use object of type logFile as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 368
+[21-Oct-2011 17:04:58] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 483
+[22-Oct-2011 18:34:47] PHP Parse error:  syntax error, unexpected '&' in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 123
+[22-Oct-2011 18:36:06] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 124
+[22-Oct-2011 20:40:34] PHP Fatal error:  Class 'Initiative' not found in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 111
+[22-Oct-2011 20:45:51] PHP Warning:  require_once(initiative.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 12
+[22-Oct-2011 20:45:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'initiative.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 12
+[22-Oct-2011 20:48:10] PHP Warning:  include_once(/home/bmasite/public_html/Pub2/login/Initiatives/initiative.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 12
+[22-Oct-2011 20:48:10] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/bmasite/public_html/Pub2/login/Initiatives/initiative.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 12
+[22-Oct-2011 20:48:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php:12) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[22-Oct-2011 20:48:10] PHP Fatal error:  Class 'Initiative' not found in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 112
+[23-Oct-2011 03:50:20] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 70
+[23-Oct-2011 03:52:53] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 70
+[23-Oct-2011 03:55:22] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 74
+[23-Oct-2011 03:56:37] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 74
+[23-Oct-2011 04:14:50] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 75
+[23-Oct-2011 04:17:23] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 71
+[23-Oct-2011 04:20:01] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 71
+[23-Oct-2011 04:23:42] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 36
+[23-Oct-2011 04:24:23] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 38
+[23-Oct-2011 04:24:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 99
+[23-Oct-2011 04:27:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 75
+[23-Oct-2011 04:27:43] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 134
+[23-Oct-2011 05:17:14] PHP Parse error:  syntax error, unexpected ',' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 128
+[23-Oct-2011 05:21:04] PHP Parse error:  syntax error, unexpected ',' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 130
+[23-Oct-2011 05:22:11] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 133
+[23-Oct-2011 05:25:45] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 136
+[23-Oct-2011 05:27:02] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 136
+[23-Oct-2011 05:28:54] PHP Fatal error:  Call to undefined method iForm::getPVolunteer() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 120
+[23-Oct-2011 05:30:15] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 105
+[23-Oct-2011 05:32:44] PHP Fatal error:  Call to undefined method iForm::getPVolunteer() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 120
+[23-Oct-2011 10:21:05] PHP Fatal error:  Call to undefined method iForm::getPVolunteer() in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 120
+[23-Oct-2011 10:54:41] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[23-Oct-2011 10:54:41] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[23-Oct-2011 10:54:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/vote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[23-Oct-2011 10:54:41] PHP Fatal error:  Call to undefined method mysql::duplicateEntryString() in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 59
+[23-Oct-2011 10:57:33] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 67
+[23-Oct-2011 10:59:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 96
+[23-Oct-2011 10:59:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 96
+[23-Oct-2011 11:00:15] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 131
+[23-Oct-2011 11:00:36] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 151
+[23-Oct-2011 11:01:21] PHP Fatal error:  Call to undefined method mysql::duplicateEntryString() in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 60
+[23-Oct-2011 11:02:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(92): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(147): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 16:47:47] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 93
+[23-Oct-2011 16:48:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(95): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(147): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 16:49:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(95): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(147): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 16:51:45] PHP Fatal error:  Call to a member function fetchObject() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 116
+[23-Oct-2011 18:20:21] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 36
+[23-Oct-2011 18:21:48] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 36
+[23-Oct-2011 18:23:45] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 36
+[23-Oct-2011 18:28:34] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 104
+[23-Oct-2011 18:32:13] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 94
+[23-Oct-2011 18:32:51] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 94
+[23-Oct-2011 18:34:21] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 96
+[23-Oct-2011 18:35:38] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 96
+[23-Oct-2011 18:36:27] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 97
+[23-Oct-2011 18:40:20] PHP Warning:  Missing argument 1 for Vote::getVoteID(), called in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 42 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 102
+[23-Oct-2011 18:40:20] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 122
+[23-Oct-2011 19:03:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:06:11] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:16:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:21:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:22:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:23:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:24:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:25:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:26:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:28:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 148
+[23-Oct-2011 19:29:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(113): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:35:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:36:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:37:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:38:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:47:05] PHP Fatal error:  Call to undefined function  checkboxvalue() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 467
+[23-Oct-2011 19:47:29] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:50:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 19:53:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[23-Oct-2011 20:23:19] PHP Fatal error:  Call to undefined method iForm::getCharmanName() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 477
+[24-Oct-2011 02:32:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(150): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:39:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(99): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:49:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(102): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:50:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(102): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:51:00] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(102): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:51:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:53:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:54:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(115): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 02:56:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 06:26:27] PHP Warning:  Missing argument 2 for iForm::setMemberNameSelectionBox(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 497 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 371
+[24-Oct-2011 06:26:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 06:31:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 06:34:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 06:41:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 16:19:53] PHP Parse error:  syntax error, unexpected '=' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 344
+[24-Oct-2011 16:35:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(124): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 16:37:14] PHP Warning:  Missing argument 1 for Vote::getVoteID(), called in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 42 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 102
+[24-Oct-2011 16:37:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(122): mysql->query('CREATE TABLE IF...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(52): Vote->createVoterTable('initiative-dddd...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(147): Vote->addBallet(1319492234, NULL, 'initiative', 'initiative-dddd...', '20', false)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 16:38:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(116): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 16:39:13] PHP Warning:  Missing argument 1 for Vote::getVoteID(), called in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 42 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 102
+[24-Oct-2011 16:39:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass: query failed
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:96
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(122): mysql->query('CREATE TABLE IF...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(52): Vote->createVoterTable('initiative-dddd...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(149): Vote->addBallet(1319492353, NULL, 'initiative', 'initiative-dddd...', '20', false)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(104): Initiative->openInitiative(Array)
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 96
+[24-Oct-2011 21:18:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 127
+[25-Oct-2011 03:18:33] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 127
+[25-Oct-2011 03:25:47] PHP Parse error:  syntax error, unexpected T_RETURN, expecting T_CATCH in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 104
+[25-Oct-2011 03:33:20] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 124
+[25-Oct-2011 03:35:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 127
+[25-Oct-2011 03:42:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 124
+[25-Oct-2011 03:43:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 124
+[25-Oct-2011 03:48:25] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 03:50:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 03:53:10] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 03:58:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 03:59:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 04:23:22] PHP Fatal error:  Call to a member function openInitiative() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 91
+[25-Oct-2011 07:16:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 125
+[25-Oct-2011 07:36:57] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 10
+[25-Oct-2011 08:34:11] PHP Fatal error:  Call to undefined method Vote::getVoteID() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 43
+[25-Oct-2011 09:19:01] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 110
+[25-Oct-2011 09:19:37] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 120
+[25-Oct-2011 09:20:34] PHP Fatal error:  Using $this when not in object context in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 94
+[25-Oct-2011 09:21:59] PHP Fatal error:  Call to a member function numRows() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 39
+[25-Oct-2011 09:22:53] PHP Warning:  Missing argument 1 for Vote::getVoteID(), called in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 52 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 74
+[25-Oct-2011 10:37:53] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 98
+[25-Oct-2011 10:38:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 102
+[25-Oct-2011 10:39:32] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 104
+[25-Oct-2011 10:40:51] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 105
+[25-Oct-2011 10:49:16] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 96
+[25-Oct-2011 11:12:05] PHP Fatal error:  Call to undefined method Vote::populateVoterTable() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 69
+[25-Oct-2011 11:13:46] PHP Fatal error:  Call to undefined function  getvoterlist() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 160
+[25-Oct-2011 15:17:35] PHP Parse error:  syntax error, unexpected '[' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 79
+[26-Oct-2011 04:44:41] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 135
+[26-Oct-2011 11:03:22] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 160
+[26-Oct-2011 12:24:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 162
+[26-Oct-2011 18:04:04] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 52
+[26-Oct-2011 18:04:23] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 51
+[26-Oct-2011 20:16:46] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 51
+[26-Oct-2011 21:00:58] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 80
+[26-Oct-2011 21:04:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 80
+[26-Oct-2011 21:07:37] PHP Fatal error:  Cannot redeclare Form::getTextBox() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 86
+[26-Oct-2011 21:09:18] PHP Warning:  Missing argument 4 for Form::setTextBox(), called in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 52 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 78
+[26-Oct-2011 21:09:18] PHP Warning:  require_once(login/TableClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 552
+[26-Oct-2011 21:09:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/TableClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 552
+[26-Oct-2011 21:10:57] PHP Warning:  require_once(login/TableClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 552
+[26-Oct-2011 21:10:57] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/TableClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 552
+[26-Oct-2011 21:13:09] PHP Warning:  require_once(login/TableClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 554
+[26-Oct-2011 21:13:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/TableClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 554
+[26-Oct-2011 21:13:57] PHP Warning:  require_once(login/TableClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 554
+[26-Oct-2011 21:13:57] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/TableClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 554
+[26-Oct-2011 21:15:01] PHP Fatal error:  Call to undefined function  renderformtext() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 578
+[26-Oct-2011 21:17:17] PHP Fatal error:  Using $this when not in object context in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 61
+[26-Oct-2011 21:19:37] PHP Fatal error:  Using $this when not in object context in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 61
+[26-Oct-2011 21:21:10] PHP Fatal error:  Call to a member function checkboxValue() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 61
+[26-Oct-2011 21:23:05] PHP Fatal error:  Call to a member function checkBoxValue() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 61
+[26-Oct-2011 21:24:49] PHP Fatal error:  Call to undefined method iForm::checBboxValue() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 58
+[27-Oct-2011 16:10:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Initiatives/vote.php:180) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[28-Oct-2011 07:04:43] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 42
+[28-Oct-2011 08:08:04] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 47
+[28-Oct-2011 08:10:04] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 47
+[28-Oct-2011 10:40:50] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:40:50] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:40:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/vote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:40:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest1boardvote86')where iorpid='97'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(57): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(148): Vote->addVoteInstance(1319816450, '97', 'initiative', 'initiativetest1...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(87): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 10:42:49] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:42:49] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:42:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/vote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 15
+[28-Oct-2011 10:43:19] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 600
+[28-Oct-2011 10:57:53] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 16
+[28-Oct-2011 10:57:53] PHP Warning:  include(login/Initiatives/vote.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 16
+[28-Oct-2011 10:57:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/vote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 16
+[28-Oct-2011 11:48:42] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 15:58:48] PHP Fatal error:  Class 'Vote' not found in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 26
+[28-Oct-2011 15:59:52] PHP Parse error:  syntax error, unexpected ')', expecting ':' or '{' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 155
+[28-Oct-2011 16:03:57] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 16:25:48] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 16:27:46] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 16:32:13] PHP Fatal error:  Class 'Vote' not found in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 13
+[28-Oct-2011 16:40:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest1boardvote87')where iorpid='98'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(57): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(152): Vote->addVoteInstance(1319838055, '98', 'initiative', 'initiativetest1...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 16:59:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest2boardvote88')where iorpid='99'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(60): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(152): Vote->addVoteInstance(1319839194, '99', 'initiative', 'initiativetest2...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 17:02:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest3boardvote89')where iorpid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(63): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(152): Vote->addVoteInstance(1319839321, '100', 'initiative', 'initiativetest3...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 17:02:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest4boardvote90')where iorpid='101'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(63): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(152): Vote->addVoteInstance(1319839369, '101', 'initiative', 'initiativetest4...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 17:14:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(vtablename)values('initiativetest5boardvote91')where iorpid='102'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(63): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(152): Vote->addVoteInstance(1319840045, '102', 'initiative', 'initiativetest5...', '1', false)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 17:14:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update initiatives set voteid='92') where iid='103'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(164): mysql->query('update initiati...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[28-Oct-2011 19:06:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bmasite/public_html/Pub2/login/Initiatives/vote.php:208) in /home/bmasite/public_html/Pub2/PresenterClass.php on line 81
+[28-Oct-2011 19:06:25] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 19:06:51] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 19:07:09] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[28-Oct-2011 20:21:58] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:22:22] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:23:26] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:24:00] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:31:39] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:31:52] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:34:46] PHP Fatal error:  Cannot redeclare class Vote in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 2
+[29-Oct-2011 04:37:15] PHP Warning:  include_once(login/Initiatives/vote.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 12
+[29-Oct-2011 04:37:15] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/vote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 12
+[29-Oct-2011 04:37:15] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 17
+[29-Oct-2011 04:37:54] PHP Warning:  require_once(login/Initiatives/vote.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 12
+[29-Oct-2011 04:37:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/Initiatives/vote.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 12
+[29-Oct-2011 04:38:13] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 17
+[29-Oct-2011 04:41:12] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 17
+[29-Oct-2011 04:42:14] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 10
+[29-Oct-2011 04:46:23] PHP Fatal error:  Call to a member function query() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 38
+[29-Oct-2011 04:49:02] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 65
+[29-Oct-2011 04:49:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(votesyes, votesno, votesnone)values(10,5,5) where voteid=''
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(150): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(58): Vote->closeVoting(NULL)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 04:53:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(votesyes, votesno, votesnone)values(10,5,5) where voteid='93'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(150): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(58): Vote->closeVoting('93')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 05:06:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into vote(votesyes, votesno, votesnone)values(10,5,5) where voteid='98'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(150): mysql->query('insert into vot...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(58): Vote->closeVoting('98')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 08:52:50] PHP Parse error:  syntax error, unexpected T_IF in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 193
+[29-Oct-2011 08:53:58] PHP Fatal error:  Call to undefined function  tallyvotingresults() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 146
+[29-Oct-2011 08:54:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 08:54:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='98'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(160): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('98')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 14:41:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select * from initiativetest1boardvote98
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(174): mysql->query('select * from i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(154): Vote->tallyVotingResults('initiativetest1...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('98')
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#5 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#6 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 14:42:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select * from initiativetest1boardvote98
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(174): mysql->query('select * from i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(154): Vote->tallyVotingResults('initiativetest1...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('98')
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#5 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#6 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 14:44:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select * from initiativetest1boardvote98
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(178): mysql->query('select * from i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(154): Vote->tallyVotingResults('initiativetest1...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('98')
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#5 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#6 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 14:48:53] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 14:48:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='99'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('99')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 15:24:51] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 15:24:51] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 15:32:19] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 15:32:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 15:33:35] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 15:33:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 15:37:31] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 15:37:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 15:50:12] PHP Parse error:  syntax error, unexpected T_CASE in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 195
+[29-Oct-2011 15:50:31] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 204
+[29-Oct-2011 15:50:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 204
+[29-Oct-2011 15:51:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 204
+[29-Oct-2011 15:51:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 15:51:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 16:14:09] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 16:14:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 16:19:52] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 197
+[29-Oct-2011 16:20:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 16:20:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[29-Oct-2011 16:21:17] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[29-Oct-2011 16:21:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:27:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[30-Oct-2011 05:27:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:29:15] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[30-Oct-2011 05:29:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:29:49] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 33 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[30-Oct-2011 05:29:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:35:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:40:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:48:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:49:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 05:52:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 10:52:37] PHP Fatal error:  Call to undefined method Vote::numRows() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 184
+[30-Oct-2011 10:53:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 10:58:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+update vote set vresult='uncertainq' where voteid='100'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(169): mysql->query('update vote set...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#3 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 15:51:52] PHP Warning:  require_once(login/VisitorDataClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 176
+[30-Oct-2011 15:51:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/VisitorDataClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 176
+[30-Oct-2011 15:52:36] PHP Warning:  include(login/VisitorDataClass.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 176
+[30-Oct-2011 15:52:36] PHP Warning:  include(login/VisitorDataClass.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 176
+[30-Oct-2011 15:52:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login/VisitorDataClass.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 176
+[30-Oct-2011 15:52:36] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 46
+[30-Oct-2011 15:52:56] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[30-Oct-2011 15:54:17] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 46
+[30-Oct-2011 16:59:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from initiativetest1boardvote100
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(190): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(154): Vote->tallyVotingResults('initiativetest1...')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('100')
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(85): Initiative->__construct(Object(logFile), Object(mysql))
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 17:43:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from initiativetest1boardvote106
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(190): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(154): Vote->tallyVotingResults('initiativetest1...', NULL)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(59): Vote->closeVoting('106')
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(23): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/rFormClass.php(579): Initiative->__construct(Object(logFile), Object(mysql))
+#5 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(55): iForm->returnInitiativeDetailTable()
+#6 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[30-Oct-2011 21:39:03] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 57
+[30-Oct-2011 21:39:29] PHP Parse error:  syntax error, unexpected T_ECHO in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 57
+[31-Oct-2011 07:09:21] PHP Fatal error:  Call to undefined method iForm::nextInitiative() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 597
+[31-Oct-2011 07:17:32] PHP Fatal error:  Call to undefined method Initiative::nextInitiative() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 597
+[31-Oct-2011 07:34:29] PHP Warning:  Missing argument 1 for iForm::returnInitiativeDetailTable(), called in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 75 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 572
+[31-Oct-2011 07:34:29] PHP Fatal error:  Call to a member function renderFormText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 602
+[31-Oct-2011 07:36:06] PHP Fatal error:  Using $this when not in object context in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 81
+[01-Nov-2011 13:08:36] PHP Fatal error:  Class 'ballet' not found in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 21
+[01-Nov-2011 13:10:55] PHP Fatal error:  Call to a member function createVoterTable() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 86
+[01-Nov-2011 15:05:26] PHP Fatal error:  Call to a member function createVoterTable() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 86
+[01-Nov-2011 15:12:21] PHP Fatal error:  Call to a member function createVoterTable() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 86
+[01-Nov-2011 15:14:49] PHP Fatal error:  Call to a member function createVoterTable() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 86
+[01-Nov-2011 19:06:45] PHP Parse error:  syntax error, unexpected '=' in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 60
+[01-Nov-2011 19:08:14] PHP Fatal error:  Call to undefined method Vote::getItems() in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 117
+[01-Nov-2011 19:09:21] PHP Fatal error:  Call to a member function getItems() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 117
+[01-Nov-2011 19:10:39] PHP Fatal error:  Call to private method mysql::getItems() from context 'Vote' in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 117
+[01-Nov-2011 19:13:29] PHP Fatal error:  Call to undefined function  aqualifiedvoter() in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 46
+[01-Nov-2011 19:14:26] PHP Warning:  Missing argument 2 for iForm::setSimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 95 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 344
+[01-Nov-2011 19:14:26] PHP Fatal error:  Cannot redeclare class ballet in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 2
+[01-Nov-2011 19:15:52] PHP Fatal error:  Cannot redeclare class ballet in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 2
+[01-Nov-2011 20:11:25] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 71
+[01-Nov-2011 20:13:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: vtablename not found in MySQL result index 34 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[01-Nov-2011 20:15:35] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: vtablename not found in MySQL result index 34 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[01-Nov-2011 20:34:24] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 67
+[01-Nov-2011 23:57:46] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 55
+[02-Nov-2011 07:06:10] PHP Fatal error:  Call to undefined method iForm::setHyperlink() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 627
+[03-Nov-2011 10:25:56] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 21
+[03-Nov-2011 10:28:50] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 24
+[03-Nov-2011 10:34:50] PHP Warning:  Missing argument 2 for Form::setText(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 622 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 20
+[03-Nov-2011 10:34:50] PHP Warning:  Illegal offset type in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 29
+[03-Nov-2011 14:38:42] PHP Fatal error:  Call to undefined function  renderformtext() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 644
+[03-Nov-2011 15:13:58] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 37
+[03-Nov-2011 15:31:04] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[03-Nov-2011 15:31:04] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 46 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[03-Nov-2011 15:31:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(90): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(141): ballet->tallyVotingResults(false, NULL)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(74): Vote->closeVoting(NULL)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(28): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/rFormClass.php(622): Initiative->__construct(Object(logFile))
+#5 /home/bmasite/public_html/Pub2/login/Initiatives/ShowInitiativeDetail.php(42): iForm->populateDetailPage('129')
+#6 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[03-Nov-2011 16:00:53] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 56
+[03-Nov-2011 16:02:47] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 56
+[03-Nov-2011 16:04:39] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 56
+[03-Nov-2011 16:06:40] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 55
+[03-Nov-2011 16:08:17] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 55
+[03-Nov-2011 16:11:18] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 55
+[03-Nov-2011 16:11:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 56
+[03-Nov-2011 16:12:17] PHP Fatal error:  Call to undefined method SessionPageBrowser::alignText() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 55
+[03-Nov-2011 16:49:05] PHP Fatal error:  Cannot redeclare class Table in /home/bmasite/public_html/Pub2/login/TableClass.php on line 2
+[03-Nov-2011 17:00:54] PHP Parse error:  syntax error, unexpected '.' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 62
+[03-Nov-2011 17:01:26] PHP Parse error:  syntax error, unexpected '.' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 62
+[03-Nov-2011 17:02:07] PHP Parse error:  syntax error, unexpected '.' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 62
+[03-Nov-2011 17:12:48] PHP Parse error:  syntax error, unexpected '.' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 62
+[03-Nov-2011 17:13:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 76
+[03-Nov-2011 17:14:29] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 65
+[03-Nov-2011 17:26:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 68
+[03-Nov-2011 17:27:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 68
+[03-Nov-2011 17:27:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 68
+[03-Nov-2011 17:28:30] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 68
+[03-Nov-2011 17:28:46] PHP Parse error:  syntax error, unexpected '"' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 68
+[04-Nov-2011 21:34:26] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_FUNCTION in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 913
+[04-Nov-2011 21:41:47] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1071
+[04-Nov-2011 21:43:49] PHP Fatal error:  Call to undefined method pForm::setHiddenValue() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 35
+[04-Nov-2011 21:51:19] PHP Fatal error:  Call to undefined method pForm::setHiddenValue() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 35
+[04-Nov-2011 21:55:58] PHP Fatal error:  Call to undefined method pForm::setSimpleText() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 47
+[04-Nov-2011 22:05:31] PHP Fatal error:  Call to undefined method pForm::setSimpleText() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 47
+[04-Nov-2011 22:14:01] PHP Fatal error:  Call to undefined method pForm::setTextArea() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 59
+[05-Nov-2011 03:41:29] PHP Fatal error:  Call to private method iForm::iUpdateBoxSelection() from context 'Form' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 177
+[05-Nov-2011 06:05:09] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 47
+[05-Nov-2011 06:08:45] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 35
+[05-Nov-2011 06:09:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 48
+[05-Nov-2011 06:10:22] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 587
+[05-Nov-2011 06:11:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 06:13:16] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:00:07] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:00:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:06:05] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:26:28] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:27:07] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:45:08] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 08:47:45] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[05-Nov-2011 18:32:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[06-Nov-2011 03:00:22] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 130
+[06-Nov-2011 03:50:03] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 46
+[06-Nov-2011 03:52:05] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 151
+[06-Nov-2011 03:53:06] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 154
+[06-Nov-2011 03:55:53] PHP Parse error:  syntax error, unexpected '(', expecting ';' or '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 154
+[06-Nov-2011 03:56:49] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 158
+[06-Nov-2011 03:58:51] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 159
+[06-Nov-2011 04:00:17] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 159
+[06-Nov-2011 04:02:09] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 155
+[06-Nov-2011 04:06:00] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 147
+[06-Nov-2011 04:07:42] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 147
+[06-Nov-2011 04:53:22] PHP Fatal error:  Call to undefined method iForm::theSubmitButton() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 46
+[06-Nov-2011 07:46:36] PHP Fatal error:  Call to undefined method iForm::theSubmitButton() in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 46
+[06-Nov-2011 07:48:54] PHP Warning:  include_once(login/Initiatives/initiative.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 478
+[06-Nov-2011 07:48:54] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'login/Initiatives/initiative.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 478
+[06-Nov-2011 07:48:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT iname, iid, descname, datetimeopened, duration, submittedbynm, istatus FROM initiatives WHERE istatus = open ORDER BY datetimeopened
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(214): mysql->query('SELECT iname, i...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(485): Initiative->nextInitiative('open')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(46): iForm->iSubmitButton('submitbutton')
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[06-Nov-2011 07:49:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT iname, iid, descname, datetimeopened, duration, submittedbynm, istatus FROM initiatives WHERE istatus = open ORDER BY datetimeopened
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(214): mysql->query('SELECT iname, i...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(485): Initiative->nextInitiative('open')
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(46): iForm->iSubmitButton('submitbutton')
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[06-Nov-2011 07:51:03] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 486
+[06-Nov-2011 15:42:25] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 486
+[06-Nov-2011 15:52:53] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 486
+[06-Nov-2011 17:03:41] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 754
+[06-Nov-2011 19:10:35] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 754
+[06-Nov-2011 19:21:43] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 236
+[06-Nov-2011 19:24:06] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 754
+[06-Nov-2011 19:27:23] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 754
+[06-Nov-2011 19:29:38] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755
+[06-Nov-2011 19:32:22] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755
+[06-Nov-2011 19:35:49] PHP Fatal error:  Call to undefined method iForm::setSubmit() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755
+[06-Nov-2011 19:37:49] PHP Warning:  Missing argument 3 for iForm::isetSubmit(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 501
+[06-Nov-2011 19:37:49] PHP Warning:  Missing argument 3 for iForm::isetSubmit(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 501
+[06-Nov-2011 19:37:49] PHP Warning:  Missing argument 3 for iForm::isetSubmit(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 755 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 501
+[06-Nov-2011 19:37:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9
+[06-Nov-2011 19:38:50] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9
+[06-Nov-2011 19:58:35] PHP Fatal error:  Call to undefined method iForm::displaySubmit() in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9
+[06-Nov-2011 19:59:48] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 761
+[07-Nov-2011 05:04:24] PHP Fatal error:  Call to undefined method iForm::idisplaySubmit() in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9
+[07-Nov-2011 05:32:18] PHP Warning:  Missing argument 2 for iForm::displaySubmit(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 520
+[07-Nov-2011 05:32:18] PHP Warning:  Missing argument 2 for iForm::displaySubmit(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 9 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 520
+[07-Nov-2011 06:19:04] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 567
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 3 for iForm::setSimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 191 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 561
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 3 for iForm::setSimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 191 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 561
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 3 for iForm::setSimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 191 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 561
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 2 for iForm::displaySimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 7 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 566
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 3 for iForm::setSimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 191 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 561
+[07-Nov-2011 06:20:21] PHP Warning:  Missing argument 2 for iForm::displaySimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 7 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 566
+[07-Nov-2011 06:41:45] PHP Warning:  Missing argument 2 for iForm::idisplaySimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 7 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 562
+[07-Nov-2011 06:41:45] PHP Warning:  Missing argument 2 for iForm::idisplaySimpleErrorText(), called in /home/bmasite/public_html/Pub2/login/Initiatives/votingtable.htm on line 7 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 562
+[07-Nov-2011 08:08:59] PHP Fatal error:  Call to a member function renderFormText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 864
+[07-Nov-2011 08:09:26] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 858
+[07-Nov-2011 08:12:36] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 859
+[07-Nov-2011 09:39:32] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 898
+[07-Nov-2011 09:53:33] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 46
+[07-Nov-2011 09:54:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(88): mysql->query('select voterid ...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(46): ballet->aQualifiedVoter(NULL, '0')
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(863): ballet->getVoteInfo(NULL, '0', NULL)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(70): iForm->returnInitiativeDetailTable('0', 0, Object(iForm))
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[07-Nov-2011 09:57:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(88): mysql->query('select voterid ...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(46): ballet->aQualifiedVoter(NULL, '0')
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(863): ballet->getVoteInfo(NULL, '0', NULL)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(70): iForm->returnInitiativeDetailTable('0', 0, Object(iForm))
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[07-Nov-2011 10:00:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(89): mysql->query('select voterid ...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(47): ballet->aQualifiedVoter(NULL, '0')
+#2 /home/bmasite/public_html/Pub2/login/rFormClass.php(863): ballet->getVoteInfo(NULL, '0', NULL)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(70): iForm->returnInitiativeDetailTable('0', 0, Object(iForm))
+#4 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[07-Nov-2011 10:16:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:16:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:16:46] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:16:46] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:20:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:20:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:20:24] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:20:24] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:23:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:23:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:23:34] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:23:34] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:24:36] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:24:36] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:24:36] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:24:36] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:26:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:26:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:26:32] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:26:32] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:31:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:31:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:31:44] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:31:44] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:32:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:32:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:32:26] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:32:26] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 10:34:21] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:34:21] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:34:21] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 68 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[07-Nov-2011 10:34:21] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 11:22:03] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 874
+[07-Nov-2011 11:26:53] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 875
+[07-Nov-2011 18:27:29] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 912
+[07-Nov-2011 18:36:39] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 911
+[07-Nov-2011 18:39:15] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 915
+[07-Nov-2011 19:24:33] PHP Parse error:  syntax error, unexpected '>' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 586
+[07-Nov-2011 19:25:48] PHP Parse error:  syntax error, unexpected '>' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 586
+[08-Nov-2011 03:56:43] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 587
+[08-Nov-2011 04:01:23] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 587
+[08-Nov-2011 04:02:14] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 587
+[08-Nov-2011 04:29:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 517
+[08-Nov-2011 04:31:06] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 517
+[08-Nov-2011 04:33:13] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 539
+[08-Nov-2011 04:34:53] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 544
+[08-Nov-2011 04:36:00] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 549
+[08-Nov-2011 04:36:25] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 567
+[08-Nov-2011 04:37:07] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 572
+[08-Nov-2011 04:37:30] PHP Fatal error:  Call to a member function addBodyText() on a non-object in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 924
+[08-Nov-2011 04:59:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 871
+[08-Nov-2011 05:20:30] PHP Fatal error:  Call to undefined method Initiative::getOpenInitiatives() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 676
+[08-Nov-2011 05:24:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[08-Nov-2011 05:34:14] PHP Fatal error:  Call to undefined method Initiative::getOpenInitiatives() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 705
+[08-Nov-2011 05:36:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:706) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 47
+[08-Nov-2011 05:37:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:706) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 47
+[08-Nov-2011 05:38:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:706) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 49
+[08-Nov-2011 05:41:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php:45) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 49
+[08-Nov-2011 05:42:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php:45) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 48
+[08-Nov-2011 10:22:28] PHP Fatal error:  Cannot redeclare pForm::inputComplete() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1185
+[08-Nov-2011 13:08:28] PHP Fatal error:  Call to a member function openProposal() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 127
+[08-Nov-2011 13:22:20] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 75
+[08-Nov-2011 13:22:47] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 75
+[08-Nov-2011 14:26:20] PHP Fatal error:  Call to a member function openProposal() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 142
+[08-Nov-2011 14:29:51] PHP Fatal error:  Using $this when not in object context in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 130
+[08-Nov-2011 15:23:14] PHP Fatal error:  Class 'Initiative' not found in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 33
+[08-Nov-2011 15:23:45] PHP Fatal error:  Class 'Initiative' not found in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 33
+[08-Nov-2011 15:24:20] PHP Fatal error:  Call to undefined method Initiative::inGetInitiative() in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 35
+[08-Nov-2011 15:44:21] PHP Parse error:  syntax error, unexpected '{' in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 35
+[08-Nov-2011 16:40:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:709) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 50
+[08-Nov-2011 16:43:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:709) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 50
+[08-Nov-2011 16:50:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:710) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 50
+[08-Nov-2011 16:51:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:710) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 50
+[08-Nov-2011 16:52:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:708) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 50
+[08-Nov-2011 21:30:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:708) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 57
+[08-Nov-2011 21:31:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:708) in /home/bmasite/public_html/Pub2/login/Initiatives/proposalfrominitiative.php on line 57
+[08-Nov-2011 21:40:54] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 245
+[08-Nov-2011 21:40:58] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 245
+[09-Nov-2011 06:14:13] PHP Parse error:  syntax error, unexpected '[' in /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php on line 47
+[09-Nov-2011 08:54:36] PHP Fatal error:  Cannot redeclare pForm::populateDetailPage() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1160
+[09-Nov-2011 10:10:12] PHP Warning:  Missing argument 1 for pForm::returnProposalDetailTable(), called in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayProposalDetail.php on line 55 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1073
+[09-Nov-2011 10:10:12] PHP Fatal error:  Class 'Proposal' not found in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1079
+[09-Nov-2011 10:12:46] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '$' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayProposalDetail.php on line 39
+[09-Nov-2011 10:14:10] PHP Fatal error:  Class 'Proposal' not found in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1079
+[09-Nov-2011 10:14:44] PHP Warning:  Missing argument 2 for Proposal::__construct(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1079 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php on line 12
+[09-Nov-2011 10:14:44] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php on line 25
+[09-Nov-2011 10:44:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT iname, pid, iid, descname, datetimeopened, duration, submittedbynm, istatus FROM proposals ORDER BY datetimeopened
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php(181): mysql->query('SELECT iname, p...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(1092): Proposal->nextProposal()
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayProposalDetail.php(54): pForm->returnProposalDetailTable(0)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[09-Nov-2011 10:51:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT pname, pid, iid, descname, datetimeopened, duration, submittedbynm, istatus FROM proposals ORDER BY datetimeopened
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php(181): mysql->query('SELECT pname, p...')
+#1 /home/bmasite/public_html/Pub2/login/rFormClass.php(1092): Proposal->nextProposal()
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayProposalDetail.php(54): pForm->returnProposalDetailTable(0)
+#3 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[09-Nov-2011 15:00:02] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 967
+[09-Nov-2011 15:01:58] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '$' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayProposalDetail.php on line 38
+[09-Nov-2011 20:52:50] PHP Warning:  Missing argument 2 for ballet::tallyVotingResults(), called in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 44 and defined in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 102
+[10-Nov-2011 03:21:20] PHP Parse error:  syntax error, unexpected ';' in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 140
+[10-Nov-2011 03:23:21] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 142
+[10-Nov-2011 03:40:59] PHP Fatal error:  Class 'Table' not found in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 48
+[10-Nov-2011 03:41:43] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66060460 bytes) in /home/bmasite/public_html/Pub2/login/TableClass.php on line 24
+[10-Nov-2011 03:43:24] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66060460 bytes) in /home/bmasite/public_html/Pub2/login/TableClass.php on line 24
+[10-Nov-2011 03:55:01] PHP Parse error:  syntax error, unexpected '}' in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 61
+[10-Nov-2011 03:55:23] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66060389 bytes) in /home/bmasite/public_html/Pub2/login/TableClass.php on line 24
+[10-Nov-2011 03:55:55] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66060475 bytes) in /home/bmasite/public_html/Pub2/login/TableClass.php on line 24
+[10-Nov-2011 03:57:39] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66060475 bytes) in /home/bmasite/public_html/Pub2/login/TableClass.php on line 24
+[10-Nov-2011 04:11:36] PHP Parse error:  syntax error, unexpected T_INC, expecting ')' in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 60
+[10-Nov-2011 04:42:25] PHP Warning:  split() [<a href='function.split'>function.split</a>]: REG_EMPTY in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 57
+[10-Nov-2011 04:54:11] PHP Parse error:  syntax error, unexpected '<' in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 61
+[10-Nov-2011 07:41:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(114): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php(55): ballet->tallyVotingResults(NULL, NULL)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 07:55:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(117): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php(55): ballet->tallyVotingResults(NULL, NULL)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 08:01:06] PHP Fatal error:  Call to undefined function  nextvotorresults() in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 55
+[10-Nov-2011 08:03:06] PHP Fatal error:  Call to undefined function  nextvoterresults() in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 55
+[10-Nov-2011 08:04:19] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 167
+[10-Nov-2011 08:06:56] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 9
+[10-Nov-2011 08:38:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/homedatapub2.php on line 58
+[10-Nov-2011 08:39:08] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[10-Nov-2011 08:39:36] PHP Fatal error:  Cannot redeclare class VisitorData in /home/bmasite/public_html/Pub2/login/VisitorDataClass.php on line 3
+[10-Nov-2011 08:40:20] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 168
+[10-Nov-2011 08:54:33] PHP Parse error:  syntax error, unexpected T_IF in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 183
+[10-Nov-2011 09:07:07] PHP Parse error:  syntax error, unexpected '<' in /home/bmasite/public_html/Pub2/login/Initiatives/ShowBalletDetail.php on line 57
+[10-Nov-2011 09:22:49] PHP Parse error:  syntax error, unexpected $end in /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php on line 191
+[10-Nov-2011 09:40:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT rowID, name, vid FROM user WHERE rowID='184'
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php(33): mysql->query('SELECT rowID, n...')
+#1 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 10:02:43] PHP Warning:  require_once(login/VisitorDataClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:02:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/VisitorDataClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:03:13] PHP Warning:  require_once(login/VisitorDataClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:03:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/VisitorDataClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:03:23] PHP Warning:  require_once(login/VisitorDataClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:03:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/VisitorDataClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 803
+[10-Nov-2011 10:04:43] PHP Warning:  require_once(login/VisitorDataClass.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 804
+[10-Nov-2011 10:04:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'login/VisitorDataClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 804
+[10-Nov-2011 10:39:12] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 822
+[10-Nov-2011 10:49:15] PHP Fatal error:  Call to undefined function  getinitiative() in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 811
+[10-Nov-2011 10:51:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 821
+[10-Nov-2011 12:01:21] PHP Fatal error:  Call to a member function castMyVote() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 195
+[10-Nov-2011 12:03:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT * FROM initiatives WHERE iid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(240): mysql->query('SELECT * FROM i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php(35): Initiative->getInitiative('')
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 12:04:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT * FROM initiatives WHERE iid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(241): mysql->query('SELECT * FROM i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php(35): Initiative->getInitiative('')
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 12:05:00] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT * FROM initiatives WHERE iid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(241): mysql->query('SELECT * FROM i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php(35): Initiative->getInitiative('')
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 12:05:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+SELECT * FROM initiatives WHERE iid=
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(241): mysql->query('SELECT * FROM i...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/pForm.php(35): Initiative->getInitiative('')
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[10-Nov-2011 12:07:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php:107) in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 114
+[10-Nov-2011 12:23:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php:107) in /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php on line 114
+[10-Nov-2011 21:15:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/vote.php on line 178
+[11-Nov-2011 05:12:51] PHP Parse error:  syntax error, unexpected '>' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 950
+[11-Nov-2011 05:13:46] PHP Parse error:  syntax error, unexpected '>' in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 959
+[11-Nov-2011 05:15:18] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php on line 24
+[11-Nov-2011 05:17:53] PHP Fatal error:  Call to a member function logMessage() on a non-object in /home/bmasite/public_html/Pub2/login/Initiatives/proposal.php on line 24
+[11-Nov-2011 11:33:45] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 87
+[11-Nov-2011 11:35:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 87
+[11-Nov-2011 11:38:19] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php on line 87
+[11-Nov-2011 11:41:15] PHP Parse error:  syntax error, unexpected ')' in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 58
+[11-Nov-2011 11:42:32] PHP Parse error:  syntax error, unexpected T_ABSTRACT, expecting ']' in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 75
+[11-Nov-2011 11:43:35] PHP Parse error:  syntax error, unexpected T_ABSTRACT, expecting ']' in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 75
+[11-Nov-2011 11:51:22] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 52
+[11-Nov-2011 11:56:18] PHP Parse error:  syntax error, unexpected T_ABSTRACT, expecting ']' in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 81
+[11-Nov-2011 12:04:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php:47) in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 107
+[11-Nov-2011 12:09:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php:47) in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 107
+[11-Nov-2011 12:09:43] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 131
+[11-Nov-2011 12:09:43] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 48 in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 111
+[11-Nov-2011 12:09:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+select voterid, vote, votecomment, datevoted from 
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/ballet.php(117): mysql->query('select voterid,...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/vote.php(146): ballet->tallyVotingResults(false, NULL)
+#2 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(74): Vote->closeVoting(NULL)
+#3 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(28): Initiative->updateIStatus()
+#4 /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php(49): Initiative->__construct(Object(logFile))
+#5 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[11-Nov-2011 12:20:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php:47) in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 107
+[11-Nov-2011 12:22:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php:86) in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 107
+[11-Nov-2011 13:39:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1031
+[11-Nov-2011 14:52:44] PHP Parse error:  syntax error, unexpected ',' in /home/bmasite/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 70
+[19-Nov-2011 17:39:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into initiatives(iname, shortdesc, abstract, submittedbynm, submittedbyid, proposalreq, volunteerc, chairrec, resdecide, voteid, istatus, duration, descname, datetimeopened) values('Mowing Scheme for 2012', 'How do we get the mowing accomplished reliably in 2012?', 'There are several airpark mowing reliability issues surfacing. 
+
+1. Due to resource limitations in the past, Phil and Katie monitored the status of the lawn and when it needed mowing (based on rain, weather, etc), but Phil and Katie don't want to be tied to the airpark throughout the mowing season.
+
+2. We have our own equipment so why should we pay higher rates for someone with their own equipment
+
+3. We have resident owners and non-resident owners who should all share equally in the responsibility
+
+4. Owners currently pay $50/mo dues, but the distribution of these funds for mowing versus other activities is not clear
+
+5. The current scheme allows owners to recov in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[19-Nov-2011 17:45:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+insert into initiatives(iname, shortdesc, abstract, submittedbynm, submittedbyid, proposalreq, volunteerc, chairrec, resdecide, voteid, istatus, duration, descname, datetimeopened) values('Mowing Plan for 2012', 'In addition to mowing, the next mow must be anticipated', 'Phil and Katie can't be tied to the airpark for the whole mowing season. Need a plan that includes "anticipation" and "mowing resource".', 'Gary Gross', '117', 'Make sure the proposal includes the "anticipation" idea, not just someone sitting on a mower.', '1', 'none', '1', '0', 'open', '60', 'MowPlan2012', '1321746325')
+' in /home/bmasite/public_html/Pub2/login/mysqlClass.php:103
+Stack trace:
+#0 /home/bmasite/public_html/Pub2/login/Initiatives/initiative.php(171): mysql->query('insert into ini...')
+#1 /home/bmasite/public_html/Pub2/login/Initiatives/iForm.php(88): Initiative->openInitiative(Array)
+#2 {main}
+  thrown in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[25-Nov-2011 20:05:12] PHP Warning:  Missing argument 4 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 817 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 281
+[25-Nov-2011 20:06:18] PHP Warning:  Missing argument 4 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 817 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 281
+[26-Nov-2011 10:06:59] PHP Warning:  Missing argument 4 for Form::getTextArea(), called in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 817 and defined in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 281
+[30-Nov-2011 14:38:42] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/bmasite/public_html/Pub2/login/rFormClass.php on line 1634
+[06-Dec-2011 14:02:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bmasite/public_html/Pub2/login/rFormClass.php:921) in /home/bmasite/public_html/Pub2/login/Initiatives/iEditForm.php on line 103
+[06-Dec-2011 14:06:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'mysqlClass/query failed
+UPDATE initiatives SET iname = 'BMA mowing plan 2012', shortdesc = 'Organize a mowing strategy for 2012', abstract = 'BMA mowing involves three items, 1) anticipating the next mow (landscape management), 2) doing the actual mowing (mowing resource), and 3) maintaining the mowing equipment (equipment maintenance). Through 2011, Phil and Katie did all of 1 and 3, and shared 2 with other residents in the airpark. In 2012 they would like to continue 2 and 3 as is, but eliminate 1, which ties them to the airpark full time during the mowing season. BMA residents like a "shared approach" for number 2, the mowing resource, because mowing equipment is available, it allows them to reduce their monthly dues, and keeps the cost down. However, doing 2 only solves part of the problem. Inaccurate landscape management can be costly in time and hard on the equipment. Thus some residents want a more organized approach which involves outsourcing the work. So f in /home/bmasite/public_html/Pub2/login/mysqlClass.php on line 103
+[11-Jul-2012 21:04:16] PHP Warning:  include_once(/home/artmarie/public_html/dbdata.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[11-Jul-2012 21:04:16] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[11-Jul-2012 21:04:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39
+[26-Jul-2012 17:15:27] PHP Warning:  include_once(/home/artmarie/public_html/dbdata.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[26-Jul-2012 17:15:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[26-Jul-2012 17:15:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39
+[15-Aug-2012 14:03:43] PHP Warning:  Invalid argument supplied for foreach() in /home/artmarie/public_html/Pub2/login/Initiatives/vote.php on line 203
+[15-Aug-2012 14:03:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artmarie/public_html/Pub2/login/Initiatives/vote.php:203) in /home/artmarie/public_html/Pub2/login/Initiatives/iForm.php on line 117
+[24-Sep-2012 19:28:09] PHP Warning:  include_once(/home/artmarie/public_html/dbdata.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[24-Sep-2012 19:28:09] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[24-Sep-2012 19:28:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39
+[14-Nov-2012 17:42:30] PHP Warning:  include_once(/home/artmarie/public_html/dbdata.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[14-Nov-2012 17:42:30] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/artmarie/public_html/dbdata.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artmarie/public_html/Pub2/login/Initiatives/DisplayInitiativeDetail.php on line 7
+[14-Nov-2012 17:42:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'artmarie'@'localhost' (using password: NO) in /home/artmarie/public_html/Pub2/login/mysqlClass.php on line 39

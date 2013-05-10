@@ -1,0 +1,147 @@
+h1 {
+		text-align: left;
+		font-family: Arial;
+		font-weight: bold;
+		font-size: 40px;
+		color: orange;
+}
+
+/* 
+	This body defines the overall background of all 
+	the pages, but nothing inside tables
+*/
+body {
+		text-align: left;
+		font-family: Arial;
+		font-size: 10px;
+		font-color: green;
+		color: white;
+		/* #333333 is dark grey */
+		background-color: black;
+		border-collapse: collapse;
+		border-spacing: 0px;}
+
+
+		.std (
+		font-color: pink;
+		
+		font-family: Arial; 
+		font-size: 10pt;
+		bgcolor: green;
+		background-color: white;
+		)
+}
+
+table th, td {
+/*
+		height:50px;
+		font-weight: bold;
+		text-align: right;
+		width: 500px;
+
+
+*/
+
+		vertical-align:top;
+		font-family: Arial;
+		font-size: 10px;
+		color: blue;
+		background-color: orange;
+		border: 0px solid black;
+		border-collapse: collapse;
+		border-spacing: 1px;
+}
+
+
+/*
+Defined in "RegionAndHeader.htm", this is the website title that appears on every
+page.
+*/
+		td.TopHdr {
+/*
+			
+			vertical-align: top;
+			text-align: left;
+			font-family: Arial;
+			background-color: white;	
+			
+*/
+			height: 10px;
+			vertical-align: top;
+			text-align: left;
+			font-family: Arial;
+			font-weight: bold;
+			font-style: italic;
+			font-size: 30px;
+			color: white;
+		}
+		
+		td.Footer {
+		/*
+			background-color: orange;
+		*/
+			height:200px;
+			border-spacing: 10px;
+			width:600px;
+			vertical-align: top;
+			text-align:right;
+			font-family: Arial;
+			font-weight: bold;
+			font-style: italic;
+			font-size: 10px;
+			color: white;
+		}		
+
+/*
+Status bars that appear below the title on every page and defined in "RegionAndHeader.htm"
+#FF0000 is a dark red
+*/
+	td.StatusBar {
+		font-family: Arial;
+		font-weight: bold;
+		font-size: 10px;
+		color: red;
+		text-align:left;
+		vertical-align:top;
+	
+	}
+	
+	td.RtStatusBar {
+		text-align:right;
+		vertical-align:top;
+		font-family: Arial;
+		font-weight: bold;
+		font-size: 10px;
+		color: red;	
+	}
+
+
+
+		.std { 
+		text-align: left;
+		font-family: Arial;
+		font-weight: bold;
+		font-style: italic;
+		font-size: 10px;
+		font-color: blue;
+		color: white;
+		width: 260px;
+		background-color: black;
+		border: 0px solid black;
+		border-collapse: collapse;
+		border-spacing: 0px;}
+		
+		
+		
+		.version {
+		font-size: 10px;
+		color: white;
+		text-align: right;
+		}
+		
+		.pagetitle {
+		font-size: 30px;
+		color: white;
+		text-align: left;
+		}
+}

@@ -1,0 +1,7 @@
+AuthName "Welcome to the BMA Documentation Site. Please sign in."
+AuthType Basic
+AuthUserFile /home2/bluemov2/www/login/BMADocuments/.htpasswd
+AuthGroupFile /dev/null
+<Limit GET POST>
+require bmaresident
+</Limit> 

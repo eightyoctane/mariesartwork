@@ -1,0 +1,26 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Proposal Name</title>
+</head>
+
+<body>
+<form enctype="multipart/form-data" action="upload.php" method="POST">
+ <table border="1" style="border-collapse: collapse" width="94%" id="table1">
+	<tr>
+		<td>Proposal Name: <?=$this->displayTextBox['pname']?><p>Proposal Descriptive Name: <?=$this->displayTextBox['descname']?></p>
+	<p>Submitter Name: <?=$this->displayTextBox['submittedbynm']?></p>
+	<p>Short Description of Proposal: <?=$this->displayTextBox['shortdesc']?></p>
+	<p>Please upload your proposal: <input name="uploaded" type="file" /><br />
+ <input type="submit" value="Upload" />
+ </p>
+ 		<p>&nbsp;</td>
+	</tr>
+	</table>
+ </form> 
+
+</body>
+
+</html>

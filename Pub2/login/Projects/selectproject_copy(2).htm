@@ -1,0 +1,51 @@
+<body>
+<table border="1" style="border-collapse: collapse" width="88%" id="table1">
+	<tr>
+		<td width="739">
+		<form enctype="multipart/form-data" method="POST"><?=$this->displayHiddenValues()?><table border="0" width="97%" style="border-collapse: collapse">
+				<tr>
+					<td width="391">
+			<input type="submit" value="Submit" name="submitbutton"><input type="reset" value="Reset" name="B2">
+			</td>
+					<td width="236"></td>
+				</tr>
+			</table>
+			<div align="left">
+			<table border="0" width="100%" style="border-collapse: collapse">
+				<tr>
+					<td align="left" valign="bottom" width="100">Select a project: <?=$this->displayListTextBox('projects')?></td>
+					<td><?=$this->displaySimpleErrorText("projects")?></td>
+					<td width="17"></td>
+					<td width="421">Upload file (pdf&nbsp; file 
+					only): <input name="uploaded" type="file" /><br />
+ <?=$this->displaySubmit('submitbutton')?></td>
+					<td><?=$this->displaySimpleErrorText("uploaded")?></td>
+				</tr>
+				<tr>
+					<td align="left" valign="bottom" colspan="4">Add Project Comment: </td>
+				</tr>
+			</table>
+			</div><?=$this->displayTextEditorArea('comment')?>
+			<table border="0" width="100%" style="border-collapse: collapse">
+				<tr>
+					<td>Project Comments:<p><?=$this->displayCommentList()?></td>
+					<td align="left" valign="top">Project Files:<table border="0" width="100%" style="border-collapse: collapse">
+						<tr>
+							<td><?=$this->displayFileList()?></td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+				<tr>
+					<td><?=$this->displaySimpleText('comments')?></td>
+				</tr>
+			</table>
+		</form>
+		</td>
+	</tr>
+	<tr>
+		<td width="739">
+		&nbsp;</td>
+	</tr>
+	</table>
+</body>
