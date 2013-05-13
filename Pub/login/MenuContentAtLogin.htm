@@ -1,0 +1,56 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 3</title>
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'MenuAtLogin/button12.jpg', /*url*/'MenuAtLogin/button13.jpg', /*url*/'MenuAtLogin/button2.jpg', /*url*/'MenuAtLogin/button3.jpg')">
+
+		<table border="0" width="16%" id="table1" cellpadding="10">
+			<tr>
+				<td align="center" valign="bottom">
+
+		<p align="center">
+		<a href="http://www.mariesartwork.com/Pub/login/loginlanding.php">
+		<img border="0" id="img31" src="MenuAtLogin/buttonE.jpg" height="20" width="100" alt="Home" onmouseover="FP_swapImg(0,0,/*id*/'img31',/*url*/'MenuAtLogin/buttonF.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img31',/*url*/'MenuAtLogin/buttonE.jpg')" onmousedown="FP_swapImg(0,0,/*id*/'img31',/*url*/'MenuAtLogin/button10.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img31',/*url*/'MenuAtLogin/buttonF.jpg')" fp-style="fp-btn: Simple Text 1; fp-preload: 0" fp-title="Home"></a></p>
+		<p align="center">
+		<a href="profileEdit.php">
+		<img border="0" id="img32" src="MenuAtLogin/button1.jpg" height="20" width="100" alt="Account Settings" fp-style="fp-btn: Simple Text 1" fp-title="Account Settings" onmouseover="FP_swapImg(1,0,/*id*/'img32',/*url*/'MenuAtLogin/button2.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img32',/*url*/'MenuAtLogin/button1.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img32',/*url*/'MenuAtLogin/button3.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img32',/*url*/'MenuAtLogin/button2.jpg')"></a></p>
+		<p align="center">
+		<a href="http://www.mariesartwork.com/Pub/login/logout.php">
+		<img border="0" id="img25" src="MenuAtLogin/button4B.jpg" height="20" width="100" alt="Logout" fp-style="fp-btn: Simple Text 1; fp-preload: 0" fp-title="Logout" onmouseover="FP_swapImg(0,0,/*id*/'img25',/*url*/'MenuAtLogin/button4C.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img25',/*url*/'MenuAtLogin/button4B.jpg')" onmousedown="FP_swapImg(0,0,/*id*/'img25',/*url*/'MenuAtLogin/button4D.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img25',/*url*/'MenuAtLogin/button4C.jpg')"></a></p>
+		<p align="center">
+		<a href="http://www.mariesartwork.com/Pub/login/admin.php">
+		<img border="0" id="img30" src="MenuAtLogin/button11.jpg" height="20" width="100" alt="Webadmin" fp-style="fp-btn: Simple Text 1" fp-title="Webadmin" onmouseover="FP_swapImg(1,0,/*id*/'img30',/*url*/'MenuAtLogin/button12.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img30',/*url*/'MenuAtLogin/button11.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img30',/*url*/'MenuAtLogin/button13.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img30',/*url*/'MenuAtLogin/button12.jpg')"></a></p>
+				</td>
+			</tr>
+		</table>
+
+		</body>
+
+</html>

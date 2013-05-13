@@ -50,8 +50,8 @@
 	// Example MySQL settings
 	$g_rb_database_type = "mysql";
 	$g_rb_database_host = "localhost:/var/lib/mysql/mysql.sock";
-	$g_rb_database_name = "artmarie_recipedb";
-	$g_rb_database_user = "artmarie_user";
-	$g_rb_database_password = "1200";
+	$g_rb_database_name = "artmarie_phprecipedb";
+	$g_rb_database_user = "artmarie_admin";
+	$g_rb_database_password = "g61185";
 	
 ?>

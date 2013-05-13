@@ -1,0 +1,50 @@
+06/22/11 Logged in: Gary Gross/eightyoctane user type 1 
+06/22/11 Logged in: Gary Gross/eightyoctane user type 1 
+06/22/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/07/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/07/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/07/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Angela Newman/Angela user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Angela Newman/Angela user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Angela Newman/Angela user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Angela Newman/Angela user type 1 
+07/08/11 Logged in: Angela Newman/Angela user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/08/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/09/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/09/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/09/11 Logged in: Marie House/artmarie user type 1 
+07/09/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/09/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/11/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/11/11 Logged in: Gary Gross/f1 user type 1 
+07/11/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/11/11 Logged in: Gary Gross/f1 user type 1 
+07/11/11 Logged in: Gary Gross/eightyoctane user type 1 
+07/11/11 Logged in: Angela Newman/Angela user type 1 
+07/11/11 Logged in: Angela Newman/Angela user type 1 
+07/11/11 Logged in: Angela Newman/Angela user type 1 
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1 logged in on Tue Jul 12 9:25:06 CDT 2011
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1 logged in on Tue Jul 12 9:48:02 CDT 2011
+07/12/11 processLogin: Marie House/artmarie user type 1 logged in on Tue Jul 12 9:48:55 CDT 2011
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1 logged in on Tue Jul 12 10:50:59 CDT 2011
+07/12/11 logout.php: eightyoctane logged out.
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1 logged in on Tue Jul 12 10:55:36 CDT 2011
+07/12/11 logout.php: /eightyoctane logged out at Tue Jul 12 10:55:46 CDT 2011
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1 logged in on Tue Jul 12 10:56:19 CDT 2011
+07/12/11 logout.php: /eightyoctane logged out at Tue Jul 12 10:56:23 CDT 2011
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1, user priv 6 logged in on Tue Jul 12 11:00:09 CDT 2011
+07/12/11 logout.php: Gary Gross/eightyoctane logged out at Tue Jul 12 11:00:32 CDT 2011
+07/12/11 processLogin: Gary Gross/eightyoctane user type 1, user priv 6 logged in on Tue Jul 12 11:09:21 CDT 2011
+07/12/11 logout.php: Gary Gross/eightyoctane logged out on Tue Jul 12 12:11:57 CDT 2011
+07/13/11 processLogin: Gary Gross/eightyoctane user type 1, user priv 6 logged in on Wed Jul 13 8:16:43 CDT 2011
+07/13/11 logout.php: Gary Gross/eightyoctane logged out on Wed Jul 13 8:17:17 CDT 2011

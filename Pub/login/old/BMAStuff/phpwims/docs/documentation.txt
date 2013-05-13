@@ -1,0 +1,92 @@
+=================================================================================
+Official phpWIMS Documentation (http://phpwims.sourceforge.net/documentation.txt)
+=================================================================================
+
+Last updated January 24, 2003 by R Sean Eidemiller (mojo@halcyon.cc)
+
+---------------------------------------------------------------------------------
+INTRODUCTION
+---------------------------------------------------------------------------------
+
+I initially wrote phpWIMS so that I would have a relatively simple means of
+keeping track of the wine in my personal cellar.  It is my hope that it will
+eventually evolve into a fully-functional wine inventory management system (hence
+the name).
+
+phpWIMP employs the now-famous LAMP (Linux, Apache, MySQL, and PHP) model for the
+development of web-based applications and front-ends. Subsequently, in order to
+install phpWIMS you will need to have root access on a machine with all of the
+aforementioned services.
+
+---------------------------------------------------------------------------------
+RELEASE NOTES
+---------------------------------------------------------------------------------
+
+For users upgrading from a previous version...
+
+Configuration options are no longer found in /etc/phpwims/config. In fact, the
+upgrade script will actually delete the file, if it exists. To modify indvidual
+config options, the user must now click on "Admin Tools" from within the web
+interface.
+
+Beginning with version 0.4.0, phpWIMS no longer uses a file on the hard drive for
+hash table lookups. Instead, usernames and their corresponding password hashes
+now reside within a MySQL table on the server. Thus, the 'addwimsuser' and
+'delwimsuser' tools will no longer be necessary and will be removed from the
+filesystem. The hash file itself (/etc/phpwims/passwd) will be removed as well,
+along with all user accounts included within.
+
+To [re]create a new account, the admin user must login via the new interface and
+click on the 'Add User' button in the Admin Tools section. The username for the
+admin user is simply 'admin' and the initial password is 'phpwims'. I apologize
+for any inconvenience this may cause, but I felt that it was a necessary step in
+the evolution of phpWIMS.
+
+NOTE: You should not login as admin for normal use.
+
+---------------------------------------------------------------------------------
+REQUIREMENTS
+---------------------------------------------------------------------------------
+
+* PHP 4.1.0 and above (compiled with support for GD)
+* Apache 1.3 and above
+* MySQL 3.22 and above 
+* Bash
+
+---------------------------------------------------------------------------------
+INSTALLATION
+---------------------------------------------------------------------------------
+
+Please see the README file distributed with each release for notes on
+installation and upgrade procedures. It's not bad, I promise.
+
+---------------------------------------------------------------------------------
+USING PHPWIMS 
+---------------------------------------------------------------------------------
+
+1) Point your browser to "http://<hostname>/phpwims".
+2) Login as user "admin" with password "phpwims".
+3) Create new user account(s) by clicking on "Admin Tools" and then "Add User".
+4) Login as a regular user and enjoy!
+
+*** DON'T FORGET TO CHANGE THE ADMIN PASSWORD!
+
+---------------------------------------------------------------------------------
+LICENSE INFORMATION
+---------------------------------------------------------------------------------
+
+PHP Wine Inventory Management System (phpWIMS)
+Copyright (C) 2002, 2003 R Sean Eidemiller
+
+This program is free software; you can redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation; either version 2 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this
+program; if not, write to the Free Software Foundation, Inc., 59 Temple Place -
+Suite 330, Boston, MA  02111-1307, USA.

@@ -1,0 +1,89 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+
+<script language="javascript">
+function show_popup(id) {
+    if (document.getElementById){
+        obj = document.getElementById(id);
+        if (obj.style.display == "none") {
+            obj.style.display = "";
+        }
+    }
+}
+function hide_popup(id){
+    if (document.getElementById){
+        obj = document.getElementById(id);
+        if (obj.style.display == ""){
+            obj.style.display = "none";
+        }
+    }
+}
+
+var FocusNeeded = true;
+
+var isNS6 = navigator.userAgent.toLowerCase().indexOf("gecko") == -1 ? false : true;
+function showIt() {
+    if (FocusNeeded) {document.signon.userid.focus();}
+}
+function entrevous(keypressed) {
+    var key;
+    if (isNS6) {key=keypressed.keyCode;}
+    else if (document.all) {key=window.event.keyCode;}
+    else {key=keypressed.which;}
+    if (key==13) {document.signon.submit();}
+}
+
+function navigate(listId){
+    var List=document.getElementById(listId);
+    window.location.href=List.options[List.selectedIndex].value ;
+}
+
+window.onload=function (){document.signon.destination.onkeypress=entrevous;}
+
+</script>
+
+<div id="my_popup" style="display:none;border:1px dotted gray;padding:.3em;background-color:white;position:absolute;width:200px;height:200px;left:100px;top:100px">
+<h3>artmarie.com</h3>
+
+<form autocomplete="off" name="signon" id="frmSignon" action="https://yak.he.net/~artmarie/login.php" method="post">
+
+<div><font face="Arial" size="2"><strong><label for="userid">Username</label>:</strong></font><br />
+
+<input type="text" accesskey="U" id="userid" name="userid"  size="13" maxlength="14" style="width:147px" tabindex="2" /></div>
+<div><font face="Arial" size="2"><strong><label for="password">Password</label>:</strong></font><br />
+<span class="mozcloak"><input type="password" accesskey="P" id="password" name="password"  size="13" maxlength="14" style="float:left;width:147px;" tabindex="2" /></span>
+<input type="hidden" name="screenid" value="SIGNON" /><input type="hidden" name="origination" value="WebCons" /><input type="hidden" name="LOB" value="Cons" />
+<input type="image" src="../../Old/OriginalArtmarie/Published/login/Type1-admin/Gary/btn_go_white.gif" alt="Go" name="btnSignon" id="btnSignon" style="clear:right;margin:1px 0 0 5px;padding:0" tabindex="2" width="36" height="19"/></div> 
+</form>
+<script type="text/javascript">
+document.getElementById("userid").focus();
+</script>
+    
+<div align="right"  onmouseout="javascript:hide_popup('my_popup')">
+        <a href="javascript:hide_popup('my_popup')">close</a>
+</div>
+	
+</div>
+
+
+
+</head>
+
+<body>
+
+
+<a href="javascript:show_popup('my_popup')">Show popup</a>
+	<table border="1" width="9%">
+		<tr>
+		
+			<td><div onmouseover="javascript:show_popup('my_popup')" > Show Popup </div></td>
+		</tr>
+	</table>
+	
+
+</body>
+
+</html>

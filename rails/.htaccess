@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^rails\.mariesartwork\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.rails\.mariesartwork\.com$
+RewriteRule ^(.*)$ "http\:\/\/127\.0\.0\.1\:12002\/$1" [P,L]
+

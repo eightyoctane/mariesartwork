@@ -1,0 +1,114 @@
+ltw_changelog.txt
+$Id: ltw_changelog.txt 28 2006-04-01 23:38:13Z mootinator $
+==========================================================================
+Changes in Release 4.2.1
+==========================================================================
+Multiple Files
+---------------------------------------
+BUG FIX: Fixed a known SQL injection vulnerability relating to the 'id' 
+tag.
+
+BUG FIX: Fixed a Cross-Site Scripting (XSS) vulnerability which could 
+send authentication data to a remote attacker.
+
+SECURITY FIX: Removed logging of failed passwords.
+
+ltweventmgr.php
+---------------------------------------
+BUG FIX:
+Calendar now returns to the correct month when editing events.
+
+BUG FIX:
+Events may now start at 12:00AM correctly in 12 hour mode.
+
+==========================================================================
+Changes in Release 4.2
+==========================================================================
+Multiple Files
+---------------------------------------
+BUG FIX: Corrected inconsistent use of unix/dos end of line characters.
+This should prevent extra whitespace causing trouble on new installs.
+
+FEATURE:
+Added PDF generation to monthly calendar view for printing support.
+Uses the free FPDF library (www.fpdf.org)
+
+ltw_config.php
+---------------------------------------
+Changed the default password expiry from 11 to 180 days.
+
+ltweventmgr.php, ltw_classes.php
+---------------------------------------
+Removed quotes from integers in event add/edit queries in order to support
+MySQL5.
+
+ltwdisplaymonth.php
+---------------------------------------
+Added rel="nofollow" to back/forward links to prevent search engines from
+indexing indefinitely.
+
+BUGFIX: Fixed a display issue where all day events spanning multiple
+days had a time displayed.
+
+ltwusermgr.php
+---------------------------------------
+Added a missing ?> tag.
+
+calendar.php
+---------------------------------------
+Added output buffering to correct an issue with some configurations.
+
+
+
+==========================================================================
+Changes in Release 4.1.3
+==========================================================================
+ltweventmgr.php
+----------------------------------------
+Fixed missing paren ")" in line 633
+
+Changes in Release 4.1.2
+==========================================================================
+ltwdisplaylist.php
+----------------------------------------
+BUG FIX: Corrected array index on lines 445, 447 so Location and Description fields display
+	Old: $evtA[$i]
+	New: $evtA[$e]
+
+	ltweventmgr.php
+---------------------------------------
+BUG FIX: in Event2_POTS, added IF statements around converting 
+	$this->event->xxxx_time to $_POST variables. 
+	Without this, you could not add events if "default" times
+	were not configured.
+
+Multiple Files
+---------------------------------------
+BUG FIX: Added "global $_POST;" to all functions using the $_POST variable to
+	complete backward (4.0.x) PHP compatibility issues
+	
+	
+==========================================================================
+Changes since Release 4.1
+==========================================================================
+
+calendar.php
+-------------------------------
+BUG FIX: Corrected $_REQUEST['end_date'] calculation to use true 
+	last day of month.
+
+ltwcatmgr.php
+-------------------------------
+CHANGE : Added Category Id display after name to suupport ?cat_ids=
+	on Month and List display.
+
+ltwdisplaylist.php
+-------------------------------
+BUG FIX: $e is now used to reference $evtA so it matches the month display
+	All incorrect references fixed
+
+ltwdisplaymonth.php
+-------------------------------
+BUG FIX: $e is now used to reference $evtA so it matches the month display
+	All incorrect references fixed	
+

@@ -1,0 +1,23 @@
+total 40
+-rw-r-----  1 ggross  mosaic    369 Dec  4 11:37 .htaccess
+-rw-r--r--  1 ggross  mosaic      2 Jan 20 10:07 .logctl
+drwxr-x---  3 ggross  mosaic    512 Jan 20 17:15 _private
+drwxr-x---  4 ggross  mosaic    512 Dec  4 11:37 _vti_bin
+drwxr-x---  2 ggross  mosaic    512 Jan  6 22:58 _vti_cnf
+-rw-r-----  1 ggross  mosaic   1715 Dec  4 11:37 _vti_inf.html
+drwxr-x---  2 ggross  mosaic    512 Dec  4 11:37 _vti_log
+drwxr-x---  3 ggross  mosaic    512 Jan  6 22:58 _vti_pvt
+drwxr-x---  2 ggross  mosaic    512 Dec  4 11:37 _vti_txt
+drwxr-xr-x  3 ggross  mosaic    512 Jan  6 22:42 aj
+drwxr-x---  2 ggross  mosaic    512 Dec  4 11:37 cgi-bin
+-rw-r--r--  1 ggross  mosaic      0 Feb  7 23:43 chmod.log
+-rw-r-----  1 ggross  mosaic  11304 Dec  4 11:37 default.htm
+drwxr-xr-x  3 ggross  mosaic    512 Jan  2 09:17 family
+-rw-------  1 ggross  mosaic   3542 Feb  2 04:00 httpd_access.0
+-rw-------  1 ggross  mosaic    132 Feb  1 04:00 httpd_access.1
+-rw-------  1 ggross  mosaic    517 Jan 29 04:02 httpd_access.2
+drwxr-x---  3 ggross  mosaic    512 Dec 12 17:31 images
+-rw-r--r--  1 ggross  mosaic   2487 Jan  6 22:58 index.htm
+drwxr-xr-x  2 ggross  mosaic    512 Jan  2 09:17 mail
+drwxr-xr-x  2 ggross  mosaic    512 Jan  2 09:17 news
+-rw-r-----  1 ggross  mosaic   2445 Dec  4 11:37 postinfo.html

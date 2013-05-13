@@ -1807,3 +1807,1743 @@ Best wishes from your friends at Maries Artwork
 
 05/07/13 login.php: Cookies not set, must ask for login info.
 05/07/13 login.php: Displaying login page
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 117 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 ListAndSelectUsers.php: Editing profile for uid number: 187
+05/10/13 profileEdit.php: submit detected
+05/10/13 profileEdit.php: Passed all validity checks
+05/10/13 Changing password for Gary Gross05/10/13 profileEdit.php: updated database, mailing status update
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 117 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/10/13 logout.php: Gary Gross/eightyoctane logged out on Fri May 10 15:55:26 CDT 2013
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 por.php: Started
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 por.php: Started
+05/10/13 initiatives.php: Started
+05/10/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/10/13 logout.php: Gary Gross/ggross logged out on Fri May 10 15:57:06 CDT 2013
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 DisplayProposalDetail.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 DisplayInitiative.php: opening database
+05/10/13 pForm constructor
+05/10/13 DisplayProposalDetail.php: Rendering Table.
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 por.php: Started
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 MySql could not connect
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 MySql could not connect
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 MySql could not connect
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 pjForm.php: opening database
+05/10/13 pjForm.php: Displaying form for first time
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin.php: Error, Already logged in event for / user type 2 \n05/10/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/10/13 logout.php: Gary Gross/ggross logged out on Fri May 10 23:12:56 CDT 2013
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 index.php: Session username, ggross is set and shouldn't be.
+05/10/13 por.php: Started
+05/10/13 login.php: starting
+05/10/13 login.php: Checking cookies, username: 
+05/10/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/10/13 login.php: Cookies not set, must ask for login info.
+05/10/13 login.php: Displaying login page
+05/10/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/10/13 processLogin: Good, not yet logged in. Checking submit button...
+05/10/13 processLogin: Submit button was set...
+05/10/13 validateLoginInput.php: Unique user found...continuing...
+05/10/13 processLogin.php: Authentication successful.
+05/10/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/10/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 news.php: Started
+05/10/13 iSubmitButton trying name: submitbutton-149
+05/10/13 iSubmitButton trying name: submitbutton-150
+05/10/13 preload_ajax: u_id 187 Requesting all messages
+05/10/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/10/13 Proposal constructor starting
+05/10/13 Proposal constructor starting
+05/10/13 por.php: Started
+05/10/13 por.php: Started
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 chairman.php: Started
+05/10/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 pjForm.php: opening database
+05/10/13 pjForm.php: Displaying form for first time
+05/10/13 chairman.php: Started
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 proposalfrominitiative.php: Displaying form for first time
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 proposalfrominitiative.php: Displaying form for first time
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 proposalfrominitiative.php: Displaying form for first time
+05/10/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/10/13 proposalfrominitiative.php: Displaying form for first time
+05/10/13 chairman.php: Started
+05/10/13 news.php: Started
+05/10/13 news.php: Started
+05/10/13 por.php: Started
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started
+05/11/13 index.php: Started at root location/home/artmarie/public_html
+05/11/13 index.php: Started at root location /home/artmarie/public_html
+05/11/13 index.php: Started at root location /home/artmarie/public_html
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 projects.php: Trying to access projects page but not logged in. Going to http://www.mariesartwork.com/Pub2/login/login.php
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 projects.php: Trying to access projects page but not logged in. Going to http://www.mariesartwork.com/Pub2/login/login.php
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 projects.php: Trying to access projects page but not logged in. Going to http://www.mariesartwork.com/Pub2/login/login.php
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 chairman.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 chairman.php: Started
+05/11/13 accountEdit.php: opening database
+05/11/13 accountEdit.php: getting current account information
+05/11/13 accountEdit.php: rendering page for the first time
+05/11/13 news.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user not found, authentication failed.
+05/11/13 processLogn.php: Authentication Failed.
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: User not found in database.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 DisplayInitiative.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 ShowBalletDetail.php: opening database
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 por.php: Started
+05/11/13 pjForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 pjForm.php: opening database
+05/11/13 pjForm.php: Displaying form for first time
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 chairman.php: Started
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: The table:
+<table border="1" width="bwidth%" id="table1" cellpadding="7" style="border-collapse: collapse"><tr><td><b><i><font face=arial size=2 color=#000000>NAME</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>EMAIL</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>PHONE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>APT</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STREET</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>CITY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STATE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>ZIP</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>COUNTRY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>VID</font></i></b></td></tr></table>
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: The table:
+<table border="1" width="bwidth%" id="table1" cellpadding="7" style="border-collapse: collapse"><tr><td><b><i><font face=arial size=2 color=#000000>NAME</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>EMAIL</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>PHONE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>APT</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STREET</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>CITY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STATE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>ZIP</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>COUNTRY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>VID</font></i></b></td></tr></table>
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: The table:
+<table border="1" width="bwidth%" id="table1" cellpadding="7" style="border-collapse: collapse"><tr><td><b><i><font face=arial size=2 color=#000000>NAME</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>EMAIL</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>PHONE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>APT</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STREET</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>CITY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STATE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>ZIP</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>COUNTRY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>VID</font></i></b></td></tr></table>
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: alisa bigham
+05/11/13 listResidents.php: Brent Bigham
+05/11/13 listResidents.php: Charles Taylor
+05/11/13 listResidents.php: daniel budde
+05/11/13 listResidents.php: Diana Ahrens
+05/11/13 listResidents.php: Gary Gross
+05/11/13 listResidents.php: Gary Venning
+05/11/13 listResidents.php: James Rutherford
+05/11/13 listResidents.php: John Bertrand
+05/11/13 listResidents.php: Marie House
+05/11/13 listResidents.php: Nancy Bertrand
+05/11/13 listResidents.php: Phil Dater
+05/11/13 listResidents.php: Philip Pecoulas
+05/11/13 listResidents.php: Quinn Ahrens
+05/11/13 listResidents.php: Sarah Hughes
+05/11/13 listResidents.php: Scott Langton
+05/11/13 listResidents.php: Tim Hughes
+05/11/13 listResidents.php: The table:
+<table border="1" width="bwidth%" id="table1" cellpadding="7" style="border-collapse: collapse"><tr><td><b><i><font face=arial size=2 color=#000000>NAME</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>EMAIL</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>PHONE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>APT</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STREET</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>CITY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STATE</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>ZIP</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>COUNTRY</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>VID</font></i></b></td><td><b><i><font face=arial size=2 color=#000000>STATUS</font></i></b></td></tr><tr><td><font face=arial size=1 color=#000000>alisa bigham</font></td><td><font face=arial size=1 color=#000000>sambigham@aol.com</font></td><td><font face=arial size=1 color=#000000>706 638 3041</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>389 blue mountain lane</font></td><td><font face=arial size=1 color=#000000>trion</font></td><td><font face=arial size=1 color=#000000>ga</font></td><td><font face=arial size=1 color=#000000>30753</font></td><td><font face=arial size=1 color=#000000>usa</font></td><td><font face=arial size=1 color=#000000>6</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Brent Bigham</font></td><td><font face=arial size=1 color=#000000>brentbigham1@yahoo.com</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>6</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Charles Taylor</font></td><td><font face=arial size=1 color=#000000>ctaylor377@yahoo.com</font></td><td><font face=arial size=1 color=#000000>352-267-0207</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>PO Box 493504</font></td><td><font face=arial size=1 color=#000000>Leesburg</font></td><td><font face=arial size=1 color=#000000>FL</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>13</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>daniel budde</font></td><td><font face=arial size=1 color=#000000>frmfim@comcast.net</font></td><td><font face=arial size=1 color=#000000>770-490-3630 (c) (De</font></td><td><font face=arial size=1 color=#000000>1216 irma court</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>kennesaw</font></td><td><font face=arial size=1 color=#000000>ga</font></td><td><font face=arial size=1 color=#000000>30152</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>5</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Diana Ahrens</font></td><td><font face=arial size=1 color=#000000>diana_ahrens@yahoo.com</font></td><td><font face=arial size=1 color=#000000>775-342-7175</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>317 Blue Mountain Lane</font></td><td><font face=arial size=1 color=#000000>Trion</font></td><td><font face=arial size=1 color=#000000>GA</font></td><td><font face=arial size=1 color=#000000>30753</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>9</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Gary Gross</font></td><td><font face=arial size=1 color=#000000>eightyoctane@yahoo.com</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>0</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Gary Venning</font></td><td><font face=arial size=1 color=#000000>gvenning@logic.bm</font></td><td><font face=arial size=1 color=#000000>4412955297</font></td><td><font face=arial size=1 color=#000000>P O Box HM 484</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>Hamilton </font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>HM CX</font></td><td><font face=arial size=1 color=#000000>Bermuda</font></td><td><font face=arial size=1 color=#000000>7</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>James Rutherford</font></td><td><font face=arial size=1 color=#000000>canterpiroutte@comcast.net</font></td><td><font face=arial size=1 color=#000000>352-239-1334</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>13672 Cygnus Drive</font></td><td><font face=arial size=1 color=#000000>Orlando</font></td><td><font face=arial size=1 color=#000000>FL</font></td><td><font face=arial size=1 color=#000000>32828</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>10</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>John Bertrand</font></td><td><font face=arial size=1 color=#000000>wingsongaviation@gmail.com</font></td><td><font face=arial size=1 color=#000000>615 818 2764 Jcell</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>523 Blue Mountain Lane</font></td><td><font face=arial size=1 color=#000000>Trion</font></td><td><font face=arial size=1 color=#000000>GA</font></td><td><font face=arial size=1 color=#000000>30753</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>3</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Marie House</font></td><td><font face=arial size=1 color=#000000>mariesartwork@yahoo.com</font></td><td><font face=arial size=1 color=#000000>423-605-4483</font></td><td><font face=arial size=1 color=#000000>391 Blue Mountain Lane</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>Trion</font></td><td><font face=arial size=1 color=#000000>ga</font></td><td><font face=arial size=1 color=#000000>30753</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>1</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Nancy Bertrand</font></td><td><font face=arial size=1 color=#000000>nancyparksbertrand@gmail.com</font></td><td><font face=arial size=1 color=#000000>706-638-2569 (hm)</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>4</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Phil Dater</font></td><td><font face=arial size=1 color=#000000>pkdater@mindspring.com</font></td><td><font face=arial size=1 color=#000000>706 639 9334</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>471  Blue Mountain Lane</font></td><td><font face=arial size=1 color=#000000>Trion</font></td><td><font face=arial size=1 color=#000000>GA</font></td><td><font face=arial size=1 color=#000000>30753</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>2</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Philip Pecoulas</font></td><td><font face=arial size=1 color=#000000>ppecoulas@yahoo.com</font></td><td><font face=arial size=1 color=#000000>813 361 6955</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>8</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Quinn Ahrens</font></td><td><font face=arial size=1 color=#000000>qahrens@yahoo.com</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>9</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Sarah Hughes</font></td><td><font face=arial size=1 color=#000000>sagnellae@aim.com</font></td><td><font face=arial size=1 color=#000000>770-345-1333</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>276 Dogwood Drive</font></td><td><font face=arial size=1 color=#000000>Canton</font></td><td><font face=arial size=1 color=#000000>GA</font></td><td><font face=arial size=1 color=#000000>30114</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>12</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Scott Langton</font></td><td><font face=arial size=1 color=#000000>scottlangtondvm@hotmail.com</font></td><td><font face=arial size=1 color=#000000>321-303-7421</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>3520-3 Avalon Park Blvd East</font></td><td><font face=arial size=1 color=#000000>Orlando</font></td><td><font face=arial size=1 color=#000000>FL</font></td><td><font face=arial size=1 color=#000000>32828</font></td><td><font face=arial size=1 color=#000000>USA</font></td><td><font face=arial size=1 color=#000000>11</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr><tr><td><font face=arial size=1 color=#000000>Tim Hughes</font></td><td><font face=arial size=1 color=#000000>anyelectric1@comcast.net</font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000></font></td><td><font face=arial size=1 color=#000000>12</font></td><td><font face=arial size=1 color=#000000>inactive</font></td></tr></table>
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 accountEdit.php: opening database
+05/11/13 accountEdit.php: getting current account information
+05/11/13 accountEdit.php: rendering page for the first time
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin.php: Error, Already logged in event for / user type 2 \n05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 12:33:55 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin.php: Error, Already logged in event for / user type 2 \n05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 13:27:56 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 14:18:38 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 chairman.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 proposalfrominitiative.php: Displaying form for first time
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 DisplayProposalDetail.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 DisplayInitiative.php: opening database
+05/11/13 pForm constructor
+05/11/13 DisplayProposalDetail.php: Rendering Table.
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 14:26:10 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 14:47:07 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 links.php: Started
+05/11/13 residentsPhotos.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 proposalfrominitiative.php: Displaying form for first time
+05/11/13 accountEdit.php: opening database
+05/11/13 accountEdit.php: getting current account information
+05/11/13 accountEdit.php: rendering page for the first time
+05/11/13 ListAndSelectUsers.php: Editing profile for uid number: 180
+05/11/13 ListAndSelectUsers.php: Editing profile for uid number: 180
+05/11/13 ListAndSelectUsers.php: Editing profile for uid number: 180
+05/11/13 por.php: Started
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 por.php: Started
+05/11/13 links.php: Started
+05/11/13 recipes.php: Started
+05/11/13 news.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 projects.php: Trying to access projects page but not logged in. Going to http://bluemountainairpark.org//login/login.php
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [ltw] => anybody:Rb3CH9UDMGhyE
+    [PHPSESSID] => 8d5a86bd270723d45474c2db4f8db1dc
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Error, no submitbutton.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 proposalfrominitiative.php: Displaying form for first time
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 por.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 news.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 proposalfrominitiative.php: Displaying form for first time
+05/11/13 news.php: Started
+05/11/13 por.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 proposalfrominitiative.php: Displaying form for first time
+05/11/13 initiatives.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 commProjects.php: Started
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 index.php: Session username, ggross is set and shouldn't be.
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 iForm.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 iForm.php: opening database
+05/11/13 iForm.php: Displaying form for first time
+05/11/13 commProjects.php: Started
+05/11/13 initiatives.php: Started
+05/11/13 MySql could not connect
+05/11/13 DisplayInitiativeDetail.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 DisplayInitiativeDetail.php: opening database
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 DisplayInitiativeDetail.php: Rendering Table.
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 DisplayInitiative.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 ShowBalletDetail.php: opening database
+05/11/13 DisplayProposalDetail.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 DisplayInitiative.php: opening database
+05/11/13 pForm constructor
+05/11/13 DisplayProposalDetail.php: Rendering Table.
+05/11/13 Proposal constructor starting
+05/11/13 DisplayInitiative.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 ShowInitiativeDetail.php: opening database
+05/11/13 ShowInitiativeDetail.php: Rendering details.
+05/11/13 DisplayInitiativeDetail.php: root : /home/artmarie/public_html/Pub2/
+05/11/13 DisplayInitiativeDetail.php: opening database
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 DisplayInitiativeDetail.php: Rendering Table.
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/11/13 por.php: Started
+05/11/13 listResidents.php: Started
+05/11/13 listResidents.php: Found 25 residents.
+05/11/13 listResidents.php: Rendering Table.
+05/11/13 por.php: Started
+05/11/13 news.php: Started
+05/11/13 accountEdit.php: opening database
+05/11/13 accountEdit.php: getting current account information
+05/11/13 accountEdit.php: rendering page for the first time
+05/11/13 news.php: Started
+05/11/13 news.php: Started
+05/11/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/11/13 logout.php: Gary Gross/ggross logged out on Sat May 11 20:31:29 CDT 2013
+05/11/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/11/13 por.php: Started
+05/11/13 login.php: starting
+05/11/13 login.php: Checking cookies, username: 
+05/11/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/11/13 login.php: Cookies not set, must ask for login info.
+05/11/13 login.php: Displaying login page
+05/11/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/11/13 processLogin: Good, not yet logged in. Checking submit button...
+05/11/13 processLogin: Submit button was set...
+05/11/13 validateLoginInput.php: Unique user found...continuing...
+05/11/13 processLogin.php: Authentication successful.
+05/11/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/11/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/11/13 news.php: Started
+05/11/13 iSubmitButton trying name: submitbutton-149
+05/11/13 iSubmitButton trying name: submitbutton-150
+05/11/13 preload_ajax: u_id 187 Requesting all messages
+05/11/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/11/13 Proposal constructor starting
+05/11/13 Proposal constructor starting
+05/12/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/12/13 index.php: Session username, ggross is set and shouldn't be.
+05/12/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/12/13 por.php: Started
+05/12/13 login.php: starting
+05/12/13 login.php: Checking cookies, username: 
+05/12/13 login.php: retrieved cookies: Array
+(
+    [PHPSESSID] => 7ffdbd83c0b1d798aaba322fa61a3e7c
+)
+
+05/12/13 login.php: Cookies not set, must ask for login info.
+05/12/13 login.php: Displaying login page
+05/12/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/12/13 processLogin: Good, not yet logged in. Checking submit button...
+05/12/13 processLogin: Submit button was set...
+05/12/13 validateLoginInput.php: Unique user found...continuing...
+05/12/13 processLogin.php: Authentication successful.
+05/12/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/12/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/12/13 news.php: Started
+05/12/13 iSubmitButton trying name: submitbutton-149
+05/12/13 iSubmitButton trying name: submitbutton-150
+05/12/13 preload_ajax: u_id 187 Requesting all messages
+05/12/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/12/13 Proposal constructor starting
+05/12/13 Proposal constructor starting
+05/12/13 por.php: Started
+05/12/13 links.php: Started
+05/12/13 recipes.php: Started
+05/12/13 recipes.php: Started
+05/12/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/12/13 logout.php: Gary Gross/ggross logged out on Sun May 12 6:26:48 CDT 2013
+05/12/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/12/13 logout.php: Started, going to: http://www.mariesartwork.com/Pub2/index.php
+05/12/13 logout.php: Gary Gross/ggross logged out on Sun May 12 16:50:47 CDT 2013
+05/12/13 index.php: Started at doc location /home/artmarie/public_html
+                      root location: /home/artmarie/public_html/Pub2/
+05/12/13 por.php: Started
+05/12/13 login.php: starting
+05/12/13 login.php: Checking cookies, username: 
+05/12/13 login.php: retrieved cookies: Array
+(
+    [__utma] => 252026517.1225011520.1367235242.1367720411.1368025206.8
+    [__utmc] => 252026517
+    [__utmz] => 252026517.1367235242.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [PHPSESSID] => f67a3916ca4b6a312f653b65ba18bd15
+)
+
+05/12/13 login.php: Cookies not set, must ask for login info.
+05/12/13 login.php: Displaying login page
+05/12/13 processLogin.php: From directory /home/artmarie/public_html/Pub2/login/
+05/12/13 processLogin: Good, not yet logged in. Checking submit button...
+05/12/13 processLogin: Submit button was set...
+05/12/13 validateLoginInput.php: Unique user found...continuing...
+05/12/13 processLogin.php: Authentication successful.
+05/12/13 processLogin.php: Remember me not set, so clearing login cookies for domain: .mariesartwork.com
+05/12/13 processLogin.php: User type: 2 Going to: http://www.mariesartwork.com/Pub2/login/news.php
+05/12/13 news.php: Started
+05/12/13 iSubmitButton trying name: submitbutton-149
+05/12/13 iSubmitButton trying name: submitbutton-150
+05/12/13 preload_ajax: u_id 187 Requesting all messages
+05/12/13 preload_msg_ajax.php: walldisplaylimit: 200
+05/12/13 Proposal constructor starting
+05/12/13 Proposal constructor starting
+05/12/13 accountEdit.php: opening database
+05/12/13 accountEdit.php: getting current account information
+05/12/13 accountEdit.php: rendering page for the first time
+05/12/13 accountEdit.php: opening database
+05/12/13 accountEdit.php: getting current account information
+05/12/13 accountEdit.php: rendering page for the first time
+05/12/13 ListAndSelectUsers.php: Editing profile for uid number: 117
+05/12/13 accountEdit.php: opening database
+05/12/13 accountEdit.php: getting current account information
+05/12/13 accountEdit.php: rendering page for the first time
+05/12/13 accountEdit.php: opening database
+05/12/13 accountEdit.php: getting current account information
+05/12/13 accountEdit.php: rendering page for the first time

@@ -8,6 +8,12 @@
 	
 	$gp = new GeneralPageBrowser($regionandheaderfull);
 
+	#$lf->logMessage("index.php: Started at root location $_SERVER['DOCUMENT_ROOT']\n");
+
+	$lf->logMessage(
+	"index.php: Started at doc location ".$_SERVER['DOCUMENT_ROOT']."\n".
+	"                      root location: ".$rootlocation."\n");
+
 
 	if(isset($_GET['errmessage'])) {
 		$lf->logMessage("index.php: Message coming in: ".$_GET['errmessage']."\n");
@@ -30,5 +36,7 @@
 	} else {	
 		$gp->addBodyContent($homepagebody);	
 	}
+	
+
 	$gp->renderPage();	
 ?>

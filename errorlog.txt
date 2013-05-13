@@ -4728,3 +4728,12 @@ Privilege change level 0 privilege requested.
 05/04/13 login.php: / logged out.
 05/04/13 login.php: / logged out.
 05/04/13 login.php: / logged out.
+05/11/13 login.php: / logged out.
+05/11/13 resetpassword.php: Starting....
+05/11/13 resetpassword.php: Message coming in: 
+05/11/13 resetpassword.php: Displaying page
+05/11/13 login.php: / logged out.
+05/11/13 resetpassword.php: Starting....
+05/11/13 resetpassword.php: Message coming in: 
+05/11/13 resetpassword.php: Displaying page
+05/12/13 login.php: / logged out.

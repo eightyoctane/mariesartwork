@@ -44,7 +44,9 @@ while ($numrows--) {
 
 	$row = $mysqldb->fetchObject();
 	
-	if($row->u_type > $utype['visitor'] AND $row->u_priv != $upriv['webadmin'] AND $row->status != "inactive") {
+	#if($row->u_type > $utype['visitor'] AND $row->u_priv != $upriv['webadmin'] AND $row->status != "inactive") {
+	if($row->u_type > $utype['visitor'] AND $row->u_priv != $upriv['webadmin']) {
+
 	
 		$disp_row = array("name" => $dT->rCQ($row->name), "email" => $dT->rCQ($row->email), "add_apt" => $dT->rCQ($row->add_apt), 
 		"add_street" => $dT->rCQ($row->add_street), "add_city" => $dT->rCQ($row->add_city),  "add_state" => $dT->rCQ($row->add_state),

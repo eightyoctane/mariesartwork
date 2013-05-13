@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Official phpWIMS Changelog	 (http://phpwims.sourceforge.net/changelog.txt)
+-------------------------------------------------------------------------------
+
+Last updated January 24, 2003 by R Sean Eidemiller (mojo@halcyon.cc)
+
+VERSION 0.4.2 (Build 01242003)
+
+- Added mechanism for producing printer-friendly bottle descriptions
+- Added ability to enter "NV" as a vintage
+- Added several sorting options to the cellar navigator
+- Several minor graphical interface modifications (more colors!)
+- Added shopping list feature
+- Moved configuration options from /etc/phpwims/config to a MySQL table
+- Added several new user configuration scripts
+- Added Hungary to the country list
+- Modified source code directory tree
+- Even more code cleanup and optimization
+
+VERSION 0.4.1 (development only - not released)
+
+VERSION 0.4.0 (Build 09112002)
+
+- MAJOR graphical interface renovation
+- Switched from file-based hash table to MySQL-based hash table for user
+  authentication
+- Added new "admin" user for preforming administrative tasks
+- Added new password change feature for all users
+- Added ability to flush the transaction log table
+- Added cellar value assessment tool to report generation section
+- LOTS of code cleanup and optimization
+
+VERSION 0.3.4 (Build 09012002)
+
+- Added config file for user-definable options (/etc/phpwims/config)
+- Added three seachable and customizable "score" fields for each bottle
+- Modified error-checking routine for the file import feature in order to make
+  it more robust
+- Modified bottle description export file syntax. Changed separator string
+  from ":" to "<field>"
+- Modified file import routine so that users with PHP < 4.1.x are able to
+  import bottle descriptions
+- Returned the "Region" search field to the cellar navigator
+
+VERSION 0.3.3 (Build 08312002)
+
+- Removed unused jpgraph source files (reduced overall size by ~50%)
+- Minor UI tweaks to the report generation section
+- Removed "Country" field from cellar navigator search output
+
+VERSION 0.3.2 (Build 08222002)
+
+- Added browser-dependent HTML formatting
+- Added import/export feature for bottle descriptions
+- Reverted to bash for install and upgrade scripts
+- Added uninstall script for users wishing to remove phpwims
+
+VERSION 0.3.1 (Build 06072002)
+
+- Changed 'type' feild to VARCHAR(10) instead of 5
+- Removed several pedantic fields from the cellar navigator
+- Modified layout of cellar navigator and bottle submission pages
+- Added JavaScript for form entry validation on several pages
+
+VERSION 0.3.0 (Build 05192002)
+
+- Added capability to search notes for keywords in cellar navigator
+- Turned off password echo in the addwimsuser script

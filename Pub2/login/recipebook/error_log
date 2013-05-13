@@ -1,2 +1,5 @@
 [08-Jul-2012 07:09:00] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/artmarie/public_html/Pub2/login/recipebook/themes/default/header.php on line 43
 [08-Jul-2012 18:23:13] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/artmarie/public_html/Pub2/login/recipebook/themes/default/header.php on line 43
+[11-May-2013 16:44:10] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/artmarie/public_html/Pub2/login/recipebook/themes/default/header.php on line 43
+[12-May-2013 06:07:04] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/artmarie/public_html/Pub2/login/recipebook/themes/default/header.php on line 43
+[12-May-2013 06:16:08] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/artmarie/public_html/Pub2/login/recipebook/themes/default/header.php on line 43

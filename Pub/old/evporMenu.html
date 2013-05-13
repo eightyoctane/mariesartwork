@@ -1,0 +1,43 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>| | || ||||</title>
+<script language="JavaScript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'../login/PorPageButtons1/button5a.jpg', /*url*/'../login/PorPageButtons1/button6a.jpg', /*url*/'../login/PorPageButtons/button3-1.jpg', /*url*/'../login/PorPageButtons/button4-1.jpg', /*url*/'../login/PorPageButtons/button13j.jpg', /*url*/'../login/PorPageButtons/button14j.jpg', /*url*/'../login/PorPageButtons1/button21f.jpg', /*url*/'../login/PorPageButtons1/button22f.jpg', /*url*/'../login/PorPageButtons1/button4.jpg', /*url*/'../login/PorPageButtons1/button5.jpg', /*url*/'../HomePageButtons/button2C.jpg', /*url*/'../HomePageButtons/button3C.jpg', /*url*/'../login/PorPageButtons/button9b.jpg', /*url*/'../login/PorPageButtons/buttonAb.jpg', /*url*/'../login/PorPageButtons/buttonFc.jpg', /*url*/'../login/PorPageButtons/button10c.jpg', /*url*/'../BMAButtons/button15ev.jpg', /*url*/'../BMAButtons/button16ev.jpg', /*url*/'../BMAButtons/button1Ec.jpg', /*url*/'../BMAButtons/button1Fc.jpg')">
+
+<p><a href="../../eventsPage.php">
+<img border="0" id="img22" src="../../BMAButtons/button14ev.jpg" height="20" width="100" alt="Events" onmouseover="FP_swapImg(1,0,/*id*/'img22',/*url*/'../BMAButtons/button15ev.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img22',/*url*/'../BMAButtons/button14ev.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img22',/*url*/'../BMAButtons/button16ev.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img22',/*url*/'../BMAButtons/button15ev.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Events"></a>|<a href="../../login/por.php"><img border="0" id="img18" src="../../login/PorPageButtons1/button3.jpg" height="20" width="100" alt="Residents" onmouseover="FP_swapImg(1,0,/*id*/'img18',/*url*/'../login/PorPageButtons1/button4.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img18',/*url*/'../login/PorPageButtons1/button3.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img18',/*url*/'../login/PorPageButtons1/button5.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img18',/*url*/'../login/PorPageButtons1/button4.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Residents"></a>|<a href="../../login/FAQ.php"><img border="0" id="img17" src="../../login/PorPageButtons1/button1Ff.jpg" height="20" width="100" alt="Documents/FAQ" onmouseover="FP_swapImg(1,0,/*id*/'img17',/*url*/'../login/PorPageButtons1/button21f.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img17',/*url*/'../login/PorPageButtons1/button1Ff.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img17',/*url*/'../login/PorPageButtons1/button22f.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img17',/*url*/'../login/PorPageButtons1/button21f.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Documents/FAQ"></a>|<a href="../../login/airparkcare.php"><img border="0" id="img23" src="../../BMAButtons/button1D1c.jpg" height="20" width="100" alt="Airpark Care" onmouseover="FP_swapImg(1,0,/*id*/'img23',/*url*/'../BMAButtons/button1Ec.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img23',/*url*/'../BMAButtons/button1D1c.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img23',/*url*/'../BMAButtons/button1Fc.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img23',/*url*/'../BMAButtons/button1Ec.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Airpark Care"></a>|<a href="../../login/projects.php"><img border="0" id="img14" src="../../login/PorPageButtons1/button4b.jpg" height="20" width="100" alt="Projects" onmouseover="FP_swapImg(1,0,/*id*/'img14',/*url*/'../login/PorPageButtons1/button5a.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img14',/*url*/'../login/PorPageButtons1/button4b.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img14',/*url*/'../login/PorPageButtons1/button6a.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img14',/*url*/'../login/PorPageButtons1/button5a.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Projects"></a>|<a href="../../login/committee.php"><img border="0" id="img21" src="../../login/PorPageButtons/buttonEc.jpg" height="20" width="100" alt="Committees" fp-style="fp-btn: Simple Text 3" fp-title="Committees" onmouseover="FP_swapImg(1,0,/*id*/'img21',/*url*/'../login/PorPageButtons/buttonFc.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img21',/*url*/'../login/PorPageButtons/buttonEc.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img21',/*url*/'../login/PorPageButtons/button10c.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img21',/*url*/'../login/PorPageButtons/buttonFc.jpg')"></a> 
+|<a href="../../login/chairman.php"><img border="0" id="img19" src="../../HomePageButtons/button1C.jpg" height="20" width="100" alt="Chairmen" onmouseover="FP_swapImg(1,0,/*id*/'img19',/*url*/'../HomePageButtons/button2C.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img19',/*url*/'../HomePageButtons/button1C.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img19',/*url*/'../HomePageButtons/button3C.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img19',/*url*/'../HomePageButtons/button2C.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Chairmen"></a>|
+		<a href="../../login/board.php">
+<img border="0" id="img20" src="../../login/PorPageButtons/button8b.jpg" height="20" width="100" alt="Board Members" onmouseover="FP_swapImg(1,0,/*id*/'img20',/*url*/'../login/PorPageButtons/button9b.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img20',/*url*/'../login/PorPageButtons/button8b.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img20',/*url*/'../login/PorPageButtons/buttonAb.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img20',/*url*/'../login/PorPageButtons/button9b.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Board Members"></a>|<a href="../../login/admin.php"><img border="0" id="img15" src="../../login/PorPageButtons/button2-1.jpg" height="20" width="100" alt="Website Admin" onmouseover="FP_swapImg(1,0,/*id*/'img15',/*url*/'../login/PorPageButtons/button3-1.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img15',/*url*/'../login/PorPageButtons/button2-1.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img15',/*url*/'../login/PorPageButtons/button4-1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img15',/*url*/'../login/PorPageButtons/button3-1.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Website Admin"></a>|<a href="../../login/logout.php"><img border="0" id="img16" src="../../login/PorPageButtons/button12j.jpg" height="20" width="100" alt="Logout" onmouseover="FP_swapImg(1,0,/*id*/'img16',/*url*/'../login/PorPageButtons/button13j.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img16',/*url*/'../login/PorPageButtons/button12j.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img16',/*url*/'../login/PorPageButtons/button14j.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img16',/*url*/'../login/PorPageButtons/button13j.jpg')" fp-style="fp-btn: Simple Text 3" fp-title="Logout"></a>|</p>
+
+</body>
+
+</html>

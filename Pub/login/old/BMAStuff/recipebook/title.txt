@@ -1,0 +1,54 @@
+classes/Import_XML.class.php:	Provides the logic to import a XML Recipe file created by PHPRecipeBook
+classes/DBUtils.class.php:				$LangUI->_('Warning: You are running PHPRecipeBook Version ') .
+custom_inc.php:		This is the custom config file for PHPRecipeBook. Put the values you wish to customize
+custom_inc.php:	$g_sm_admin_name = "PHPRecipeBook Manager"; // name of admin in emails
+docs/documentation.html:<title>PHPRecipeBook Documentation</title>
+docs/documentation.html:	The submitter of a recipe is the person that entered the recipe into PHPRecipeBook, this is not necessarily the same as 
+docs/documentation.html:		The possible units that can be used can be selected from the drop down menu.  If you need a unit that is not present in the list ask the maintainer of this PHPRecipeBook to insert the value you want
+docs/documentation.html:		of the shopping list more powerful, it will not effect any other part of the PHPRecipeBook view of the recipe.
+docs/INSTALL.UNIX:Project: PHPRecipeBook
+docs/INSTALL.UNIX:Install and setup Apache, PHP, PostgreSQL/MySQL on your system.  Then proceed with these instructions to setup PHPRecipeBook.
+docs/INSTALL.UNIX:		You can customize the dropdown selectings such as the ethnicity, courses, bases, etc... in the PHPRecipeBook by logging in as a admin
+docs/INSTALL.UNIX:		If that is all setup, then copy the PHPRecipeBook PHP files into a web accessible point or create an alias. PHPRecipeBook is written to work with Globals disabled in PHP.
+docs/INSTALL.UNIX:	When you are done the language file is updated and saved.  You can send this file to me (nazgul26@users.sourceforge.net) for inclusion in future release of PHPRecipeBook, the file is
+docs/FAQ.TXT:			PHPRecipeBook FAQ
+docs/FAQ.TXT:A. PHPRecipeBook is mainly centered around the ability to manage a weekly menu of meals.  This include the ability to plan the meals, create a shopping list and view and edit the recipe.  If the feature does not go to further these goals then it is not a priority and also may be rejected to avoid feature bloat.
+docs/UPGRADE.TXT:If you are upgrading from the 1.x version of PHPRecipeBook there is no direct and easy way to migrate the data. The way that I recommend to migrate to the 2.x schema is to export all of the recipes as PHPRecipeBook XML, then import this data into 2.x.  You will need to be running the last release of 1.x in order to get the most up to date export features.  If everything goes smoothly this should be a very easy and painless proceedure.  Make sure you backup your database and all data files before doing this.  If you run into problems or loose data please post a comment or bug at the sourceForge project webpage:
+docs/INSTALL.WIN32:Installing PHPRecipeBook For Windows:
+includes/config_inc.php~:	$g_sm_admin_name = "PHPRecipeBook Manager"; 		// name of admin in emails
+includes/config_inc.php~:	$g_rb_project_name = "PHPRecipeBook";
+includes/config_inc.php:	$g_sm_admin_name = "PHPRecipeBook Manager"; 		// name of admin in emails
+includes/config_inc.php:	$g_rb_project_name = "PHPRecipeBook";
+lang/de.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook Format (XML)",
+lang/de.php:"PHPRecipeBook Password"=>"PHPRecipeBook Passwort",
+lang/de.php:"Warning: You are running PHPRecipeBook Version "=>"Achtung: Sie benutzen PHPRecipeBook Version ",
+lang/srl.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook format (XML)",
+lang/srl.php:"PHPRecipeBook Password"=>"PHPRecipeBook lozinka",
+lang/srl.php:"Warning: You are running PHPRecipeBook Version "=>"Upozorenje: verzija PHPRecipeBook koju koristite je ",
+lang/et.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook formaat (XML)",
+lang/et.php:"PHPRecipeBook Password"=>"PHPRecipeBook-i salasõna",
+lang/da.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook Format (XML)",
+lang/da.php:"PHPRecipeBook Password"=>"PHPRecipeBook Kodeord",
+lang/da.php:"Warning: You are running PHPRecipeBook Version "=>"Advarsel! Du benytter PHPRecipeBook Version",
+lang/en.php:"PHPRecipeBook Format (XML)"=>"",
+lang/en.php:"PHPRecipeBook Password"=>"",
+lang/en.php:"Warning: You are running PHPRecipeBook Version "=>"",
+lang/sv.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook (XML)",
+lang/sv.php:"PHPRecipeBook Password"=>"PHPRecipeBook lösenord",
+lang/pt_BR.php:"PHPRecipeBook Format (XML)"=>"",
+lang/pt_BR.php:"PHPRecipeBook Password"=>"",
+lang/pt_BR.php:"Warning: You are running PHPRecipeBook Version "=>"Aviso: Você está usando o PHPRecipeBook Versão",
+lang/es.php:"PHPRecipeBook Format (XML)"=>"Formato PHPRecipeBook (XML)",
+lang/es.php:"PHPRecipeBook Password"=>"Contraseña PHPRecipeBook",
+lang/es.php:"Warning: You are running PHPRecipeBook Version "=>"Atención: Estás ejecutando PHPRecipeBook Versión ",
+lang/nl.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook indeling (XML)",
+lang/nl.php:"PHPRecipeBook Password"=>"PHPRecipeBook wachtwoord",
+lang/hu.php:"PHPRecipeBook Format (XML)"=>"PHPRecipeBook formÃ¡tum (XML)",
+lang/hu.php:"PHPRecipeBook Password"=>"PHPRecipeBook jelszÃ³",
+lang/hu.php:"Warning: You are running PHPRecipeBook Version "=>"Figyelem! Ã–n a PHPRecipeBook kÃ¶vetkezÅ‘ verziÃ³jÃ¡t futtatja:",
+lang/tr.php:"PHPRecipeBook Format (XML)"=>"Reçetematik Formatý (XML)",
+lang/tr.php:"PHPRecipeBook Password"=>"Reçetematik Þifresi",
+libs/phpsm/config_inc.php:	$g_sm_admin_name = "PHPRecipeBook Manager"; 		// name of admin in emails
+libs/phpsm/forms/userAddEditFormSubmit.php:			$subject = $this->_('PHPRecipeBook Password');
+modules/recipes/export.php:				'XML' => $LangUI->_('PHPRecipeBook Format'),
+modules/recipes/import.php:			'XML' => $LangUI->_('PHPRecipeBook Format (XML)'),

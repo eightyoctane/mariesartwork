@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head		
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Directory Listing of &lt;<?=$this->dirname?>&gt;</title>
+<link rel="stylesheet" type="text/css" href="dlf/styles.css" />
+<?=$this->thumbnailtext?>
+</head>
+<body>
+<div id="container">
+  <h1>Directory Listing of <?=$this->dirname?></h1>
+  <div id="breadcrumbs"> <a href="<?=$this->basedir?>">home</a> 
+  <?=$this->listinghdrtext?>
+  </div>
+  <div id="listingcontainer">
+    <div id="listingheader"> 
+	<div id="headerfile"><a href="<?=$baseurl . $fileurl;?>">File</a></div>
+	<div id="headersize"><a href="<?=$baseurl . $sizeurl;?>">Size</a></div>
+	<div id="headermodified"><a href="<?=$baseurl . $dateurl;?>">Last Modified</a></div>
+  	</div>
+    <div id="listing">
+    <?=$this->listlines?>
+	</div>
+</div>
+<div id="copy">Directory Listing Script ©2008 Evoluted, <a href="http://www.evoluted.net/">
+	Web Design Sheffield</a>.</div>
+</body>
+</html>

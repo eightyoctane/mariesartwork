@@ -5,7 +5,8 @@
 	require_once($rootlocation."login/libfunctions.php");
 	include_once($rootlocation."login/mysqlClass.php");
 	include_once($rootlocation."login/rFormClass.php");
-	include_once($_SERVER['DOCUMENT_ROOT']."/dbdata.php");
+	/* include_once($_SERVER['DOCUMENT_ROOT']."/dbdata.php"); */
+	include_once($rootlocation."/dbdata.php");
 	include_once($rootlocation.'logFileClass.php');
 	include_once($rootlocation.'PresenterClass.php');
 	include_once($rootlocation."login/Projects/project.php");

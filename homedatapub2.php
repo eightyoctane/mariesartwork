@@ -1,12 +1,22 @@
 <?php
+#define('HOMELOCATIONURL',"http://bluemountainairpark.org/");
 define('HOMELOCATIONURL',"http://www.mariesartwork.com/Pub2/");
+
 $docroot = $_SERVER['DOCUMENT_ROOT']."/";
-$sitedescription = "Works of Art By Marie House";
+#$docroot = $_SERVER['DOCUMENT_ROOT']."/Pub2";
+
+$sitedescription = "Blue Mountain Airpark Residents Site";
 $timezone = "America/New_York";
 $rootlocation = $docroot."Pub2/";
+#$rootlocation = $docroot;
+
+$loginlocation = "login/";
 $staticcontentloc = "login/htmlfiles/";
 $homelocationpart = "http://www.mariesartwork.com/";
+#$homelocationpart = "http://bluemountainairpark.org/";
 $homelocationsub = "Pub2/";
+#$homelocationsub = "/";
+
 $projects = "login/ProjectFiles/";
 $homelocationnewsurl = $homelocationpart.$homelocationsub."login/news.php";
 $homelocationurl = $homelocationpart.$homelocationsub."index.php";
@@ -18,7 +28,7 @@ $simpleregionfull = $rootlocation.$staticcontentloc.$simpleregion;
 $regionandheadersplitfull = $rootlocation.$staticcontentloc."RegionAndHeaderSplit.htm";
 $regionandheadertestfull = $rootlocation.$staticcontentloc."bma_RegionSimple2.htm";
 $headercontent = $rootlocation."HeaderContent.htm";
-$pagetitle = "Marie's Artwork";
+$pagetitle = "BMA Residents Site";
 $cktoolbar = "BMABasic";
 $maxproposalsize = "350000000";
 $maxprojfilesize = "350000000";
@@ -35,13 +45,13 @@ $footercontentfull = $rootlocation.$staticcontentloc."generalFooter.htm";
 $sitetitlefull = $rootlocation.$staticcontentloc."siteTitleContent.htm";
 	
 $cookiedomain = ".mariesartwork.com";
-$website = "http://www.mariesartwork.com";
-$email = "mariesartwork@yahoo.com";
+$website = "http://bluemountainairpark.org";
+$email = "eightyoctane@yahoo.com";
 $mailerfull = $rootlocation."login/"."phpmailer/";
 $errorlog = "errorlog.txt";
 $errorlogfull = $rootlocation.$errorlog;
 $logintracking = $rootlocation.'LoginTracking.txt';
-$nameid = "Maries Artwork";
+$nameid = "Blue Mountain Airpark";
 
 $logintype = "bluemountain";
 $walldisplaymsglimit = 200;
@@ -49,9 +59,9 @@ $walldisplaymsglimit = 200;
 $utype = array("nobody" => 0, "visitor" => 1, "resident" => 2, "contractor" => 3);
 
 $utypemsg = array( 	$utype["nobody"] => "User Type must be set",
-					$utype["visitor"] => "Marie's Artwork Visitor",
-					$utype["resident"] => "Marie's Artwork Member",
-					$utype["contractor"] => "Marie's Artwork Dealer"
+					$utype["visitor"] => "BMA Visitor",
+					$utype["resident"] => "BMA Member",
+					$utype["contractor"] => "BMA Contractor"
 					);
 		
 $usertypepairs = array(
@@ -91,13 +101,13 @@ $upriv = array( "nobody" => 0,
 
 $uprivmsg = array(  $upriv["nobody"] => "User Privilege must be set",
 					$upriv["anyowner"] => "Member Privileges",
-					$upriv["committee"] => "P2 Privileges",
-					$upriv["commchair"] => "P3 Privileges",
-					$upriv["board"] => "P4 Privileges",
-					$upriv["boardpres"] => "P5 Privileges",
+					$upriv["committee"] => "Committee Privileges",
+					$upriv["commchair"] => "Committee Chair Privileges",
+					$upriv["board"] => "Board Privileges",
+					$upriv["boardpres"] => "Board President Privileges",
 					$upriv["webadmin"] => "Webadmin Privileges",
-					$upriv["submit"] => "Dealer P1 Privileges",
-					$upriv["staff"] => "Dealer P2 Privileges");
+					$upriv["submit"] => "Visitor Privileges",
+					$upriv["staff"] => "Contractor Privileges");
 					
 $privtypepairs = array(
 						array($upriv['nobody'], $uprivmsg[$upriv['nobody']]),
